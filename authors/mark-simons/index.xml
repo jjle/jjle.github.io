@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Simons on J. Jiang</title>
+    <link>/authors/mark-simons/</link>
+    <description>Recent content in Mark Simons on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/mark-simons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strain budget of the Ecuador--Colombia subduction zone: A stochastic view</title>
+      <link>/publication/gombert-2018-pf/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/gombert-2018-pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth varying rupture properties during the 2015 Mw 7.8 Gorkha (Nepal) earthquake</title>
+      <link>/publication/yue-2017-cu/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/yue-2017-cu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic imaging of tsunamigenic seafloor deformation during the 2011 Tohoku-oki Earthquake</title>
+      <link>/publication/jiang-2016-mp/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/jiang-2016-mp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian source model for the 2004 great Sumatra-Andaman earthquake</title>
+      <link>/publication/bletery-2016-oy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/bletery-2016-oy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iquique earthquake sequence of April 2014: Bayesian modeling accounting for prediction uncertainty</title>
+      <link>/publication/duputel-2015-jt/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/duputel-2015-jt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inversion for finite fault earthquake source models -- II: the 2011 great Tohoku-oki, Japan earthquake</title>
+      <link>/publication/minson-2014-gg/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/minson-2014-gg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: mosaicking the megathrust from seconds to centuries</title>
+      <link>/publication/simons-2011-ce/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/simons-2011-ce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

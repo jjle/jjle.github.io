@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anthropogenic on J. Jiang</title>
+    <link>/tags/anthropogenic/</link>
+    <description>Recent content in anthropogenic on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/anthropogenic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ground Deformation due to Human Activities</title>
+      <link>/project/land-use/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/land-use/</guid>
+      <description>In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation. The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust.</description>
+    </item>
+    
+  </channel>
+</rss>

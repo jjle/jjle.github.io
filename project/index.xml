@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on J. Jiang</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earthquake and Fault Zone Dynamics</title>
+      <link>/project/earthquake/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/earthquake/</guid>
+      <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
+    </item>
+    
+    <item>
+      <title>Subduction Zone and Tsunami Processes</title>
+      <link>/project/subduction/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/subduction/</guid>
+      <description>I am interested in understanding earthquake and tsunami hazards in major subduction zones around the world, e.g., East Japan, Nankai Trough, Chile, Peru, Cascadia, Alaska, Sumatra, New Zealands, etc. One of the significant questions I hope to address is the tsunamigenic processes of shallow megathrust and outer wedge of the forearc, and the associated tsunami propagation and coastal inundation processes. I am also interested in the rheology and heterogeneity of deeper megathrusts and their implications for seismic behavior and coastal shaking.</description>
+    </item>
+    
+    <item>
+      <title>Ground Deformation due to Human Activities</title>
+      <link>/project/land-use/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/land-use/</guid>
+      <description>In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation. The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust.</description>
+    </item>
+    
+    <item>
+      <title>Integration of Seismic-Geodetic Observations</title>
+      <link>/project/data/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/project/data/</guid>
+      <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip before and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>
+    </item>
+    
+    <item>
+      <title>Community Modeling Initiative - SEAS</title>
+      <link>/project/seas/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/seas/</guid>
+      <description>Numerical simulations of Sequences of Earthquakes and Aseismic Slip (SEAS) have made great progress over the past decades to address important questions in earthquake physics and fault mechanics. Significant challenges in SEAS modeling remain in resolving multiscale interactions between aseismic fault slip, earthquake nucleation, and dynamic rupture; and understanding physical factors controlling observables such as seismicity and ground deformation. The increasing capability and complexity of SEAS modeling calls for extensive efforts to verify and advance these simulations with rigor, reproducibility, and broadened impact.</description>
+    </item>
+    
+    <item>
+      <title>Computational Geophysics</title>
+      <link>/project/computation/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/project/computation/</guid>
+      <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a probabilistic inference framework (analytical and numerical Bayesian approaches) with an emphasis on characterizing uncertainty in data and modeling, and propagating that uncertainty to inferred/predicted parameters. The other part of my research involves developing computational models with sophisticated physics and predictive powers to understand earthquakes, tsunamis, or slow slip.</description>
+    </item>
+    
+  </channel>
+</rss>

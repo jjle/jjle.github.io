@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aseismic transients; earthquake rupture; fault mechanics; geodetic locking; rate-and-state friction; seismicity on J. Jiang</title>
+    <link>/tags/aseismic-transients-earthquake-rupture-fault-mechanics-geodetic-locking-rate-and-state-friction-seismicity/</link>
+    <description>Recent content in aseismic transients; earthquake rupture; fault mechanics; geodetic locking; rate-and-state friction; seismicity on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/aseismic-transients-earthquake-rupture-fault-mechanics-geodetic-locking-rate-and-state-friction-seismicity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reconciling seismicity and geodetic locking depths on the Anza section of the San Jacinto fault</title>
+      <link>/publication/jiang-2016-yt/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/jiang-2016-yt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

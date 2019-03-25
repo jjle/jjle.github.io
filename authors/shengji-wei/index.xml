@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shengji Wei on J. Jiang</title>
+    <link>/authors/shengji-wei/</link>
+    <description>Recent content in Shengji Wei on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2012 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/shengji-wei/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sources of shaking and flooding during the Tohoku-Oki earthquake: A mixture of rupture styles</title>
+      <link>/publication/wei-2012-vx/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/wei-2012-vx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: mosaicking the megathrust from seconds to centuries</title>
+      <link>/publication/simons-2011-ce/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/simons-2011-ce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Vallée on J. Jiang</title>
+    <link>/authors/martin-vall%C3%A9e/</link>
+    <description>Recent content in Martin Vallée on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/martin-vall%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A detailed source model for the Mw9.0 Tohoku-Oki earthquake reconciling geodesy, seismology, and tsunami records</title>
+      <link>/publication/bletery-2014-kr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/bletery-2014-kr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

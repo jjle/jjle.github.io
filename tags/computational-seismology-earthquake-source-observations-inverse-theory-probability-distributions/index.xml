@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational seismology; Earthquake source observations; Inverse theory; Probability distributions on J. Jiang</title>
+    <link>/tags/computational-seismology-earthquake-source-observations-inverse-theory-probability-distributions/</link>
+    <description>Recent content in Computational seismology; Earthquake source observations; Inverse theory; Probability distributions on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/computational-seismology-earthquake-source-observations-inverse-theory-probability-distributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian inversion for finite fault earthquake source models -- II: the 2011 great Tohoku-oki, Japan earthquake</title>
+      <link>/publication/minson-2014-gg/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/minson-2014-gg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

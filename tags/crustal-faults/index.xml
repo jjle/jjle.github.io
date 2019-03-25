@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crustal-faults on J. Jiang</title>
+    <link>/tags/crustal-faults/</link>
+    <description>Recent content in crustal-faults on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/crustal-faults/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earthquake and Fault Zone Dynamics</title>
+      <link>/project/earthquake/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/earthquake/</guid>
+      <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Jiang on J. Jiang</title>
+    <link>/authors/j-jiang/</link>
+    <description>Recent content in J Jiang on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/j-jiang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Iquique earthquake sequence of April 2014: Bayesian modeling accounting for prediction uncertainty: The 2014 Iquique Earthquake</title>
+      <link>/publication/duputel-2015-jt/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/duputel-2015-jt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian inversion for finite fault earthquake source models - II: The 2011 great Tohoku-oki, Japan earthquake</title>
+      <link>/publication/minson-2014-gg/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/minson-2014-gg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
