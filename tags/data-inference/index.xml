@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data-inference on J. Jiang</title>
-    <link>/tags/data-inference/</link>
+    <link>https://jjle.github.io/tags/data-inference/</link>
     <description>Recent content in data-inference on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Apr 2015 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/data-inference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/tags/data-inference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Integration of Seismic-Geodetic Observations</title>
-      <link>/project/data/</link>
+      <link>https://jjle.github.io/project/data/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
       
-      <guid>/project/data/</guid>
+      <guid>https://jjle.github.io/project/data/</guid>
       <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip before and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>
     </item>
     

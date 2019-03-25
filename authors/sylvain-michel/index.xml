@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvain Michel on J. Jiang</title>
-    <link>/authors/sylvain-michel/</link>
+    <link>https://jjle.github.io/authors/sylvain-michel/</link>
     <description>Recent content in Sylvain Michel on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/sylvain-michel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/authors/sylvain-michel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pulse-like partial ruptures and high-frequency radiation at creeping-locked transition during megathrust earthquakes</title>
-      <link>/publication/michel-2017-zt/</link>
+      <link>https://jjle.github.io/publication/michel-2017-zt/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/michel-2017-zt/</guid>
+      <guid>https://jjle.github.io/publication/michel-2017-zt/</guid>
       <description></description>
     </item>
     

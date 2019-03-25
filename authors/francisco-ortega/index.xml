@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Ortega on J. Jiang</title>
-    <link>/authors/francisco-ortega/</link>
+    <link>https://jjle.github.io/authors/francisco-ortega/</link>
     <description>Recent content in Francisco Ortega on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2014 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/francisco-ortega/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/authors/francisco-ortega/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayesian inversion for finite fault earthquake source models -- II: the 2011 great Tohoku-oki, Japan earthquake</title>
-      <link>/publication/minson-2014-gg/</link>
+      <link>https://jjle.github.io/publication/minson-2014-gg/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
       
-      <guid>/publication/minson-2014-gg/</guid>
+      <guid>https://jjle.github.io/publication/minson-2014-gg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: mosaicking the megathrust from seconds to centuries</title>
-      <link>/publication/simons-2011-ce/</link>
+      <link>https://jjle.github.io/publication/simons-2011-ce/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 -0400</pubDate>
       
-      <guid>/publication/simons-2011-ce/</guid>
+      <guid>https://jjle.github.io/publication/simons-2011-ce/</guid>
       <description></description>
     </item>
     

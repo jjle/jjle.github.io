@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean Mathieu Nocquet on J. Jiang</title>
-    <link>/authors/jean-mathieu-nocquet/</link>
+    <link>https://jjle.github.io/authors/jean-mathieu-nocquet/</link>
     <description>Recent content in Jean Mathieu Nocquet on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/jean-mathieu-nocquet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/authors/jean-mathieu-nocquet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A detailed source model for the Mw9.0 Tohoku-Oki earthquake reconciling geodesy, seismology, and tsunami records</title>
-      <link>/publication/bletery-2014-kr/</link>
+      <link>https://jjle.github.io/publication/bletery-2014-kr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0500</pubDate>
       
-      <guid>/publication/bletery-2014-kr/</guid>
+      <guid>https://jjle.github.io/publication/bletery-2014-kr/</guid>
       <description></description>
     </item>
     

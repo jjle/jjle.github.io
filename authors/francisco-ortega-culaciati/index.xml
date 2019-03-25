@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francisco Ortega Culaciati on J. Jiang</title>
-    <link>/authors/francisco-ortega-culaciati/</link>
+    <link>https://jjle.github.io/authors/francisco-ortega-culaciati/</link>
     <description>Recent content in Francisco Ortega Culaciati on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/francisco-ortega-culaciati/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/authors/francisco-ortega-culaciati/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Iquique earthquake sequence of April 2014: Bayesian modeling accounting for prediction uncertainty</title>
-      <link>/publication/duputel-2015-jt/</link>
+      <link>https://jjle.github.io/publication/duputel-2015-jt/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/duputel-2015-jt/</guid>
+      <guid>https://jjle.github.io/publication/duputel-2015-jt/</guid>
       <description></description>
     </item>
     

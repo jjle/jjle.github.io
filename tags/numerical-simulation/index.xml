@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>numerical-simulation on J. Jiang</title>
-    <link>/tags/numerical-simulation/</link>
+    <link>https://jjle.github.io/tags/numerical-simulation/</link>
     <description>Recent content in numerical-simulation on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Apr 2014 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/numerical-simulation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/tags/numerical-simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Community Modeling Initiative - SEAS</title>
-      <link>/project/seas/</link>
+      <link>https://jjle.github.io/project/seas/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/seas/</guid>
+      <guid>https://jjle.github.io/project/seas/</guid>
       <description>Numerical simulations of Sequences of Earthquakes and Aseismic Slip (SEAS) have made great progress over the past decades to address important questions in earthquake physics and fault mechanics. Significant challenges in SEAS modeling remain in resolving multiscale interactions between aseismic fault slip, earthquake nucleation, and dynamic rupture; and understanding physical factors controlling observables such as seismicity and ground deformation. The increasing capability and complexity of SEAS modeling calls for extensive efforts to verify and advance these simulations with rigor, reproducibility, and broadened impact.</description>
     </item>
     

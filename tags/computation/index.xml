@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>computation on J. Jiang</title>
-    <link>/tags/computation/</link>
+    <link>https://jjle.github.io/tags/computation/</link>
     <description>Recent content in computation on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Mar 2014 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/computation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/tags/computation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computational Geophysics</title>
-      <link>/project/computation/</link>
+      <link>https://jjle.github.io/project/computation/</link>
       <pubDate>Thu, 27 Mar 2014 00:00:00 -0400</pubDate>
       
-      <guid>/project/computation/</guid>
+      <guid>https://jjle.github.io/project/computation/</guid>
       <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a probabilistic inference framework (analytical and numerical Bayesian approaches) with an emphasis on characterizing uncertainty in data and modeling, and propagating that uncertainty to inferred/predicted parameters. The other part of my research involves developing computational models with sophisticated physics and predictive powers to understand earthquakes, tsunamis, or slow slip.</description>
     </item>
     

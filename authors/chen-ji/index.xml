@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chen Ji on J. Jiang</title>
-    <link>/authors/chen-ji/</link>
+    <link>https://jjle.github.io/authors/chen-ji/</link>
     <description>Recent content in Chen Ji on J. Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/authors/chen-ji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjle.github.io/authors/chen-ji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rupture evolution of the 2006 Java tsunami earthquake and the possible role of splay faults</title>
-      <link>/publication/fan-2017-qm/</link>
+      <link>https://jjle.github.io/publication/fan-2017-qm/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
-      <guid>/publication/fan-2017-qm/</guid>
+      <guid>https://jjle.github.io/publication/fan-2017-qm/</guid>
       <description></description>
     </item>
     
