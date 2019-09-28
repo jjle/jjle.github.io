@@ -36,6 +36,24 @@
     </item>
     
     <item>
+      <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
+      <link>https://jjle.github.io/publication/erickson-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/erickson-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow Slip Event on the Southern San Andreas Fault Triggered by the 2017 Mw8.2 Chiapas (Mexico) Earthquake</title>
+      <link>https://jjle.github.io/publication/tymofyeyeva-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/tymofyeyeva-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://jjle.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -206,26 +224,6 @@ rm Untitled.md
       
       <guid>https://jjle.github.io/publication/jiang-2016-wi/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Earthquake and Fault Zone Dynamics</title>
-      <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jjle.github.io/project/earthquake/</guid>
-      <description>&lt;p&gt;My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Subduction Zone and Tsunami Processes</title>
-      <link>https://jjle.github.io/project/subduction/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jjle.github.io/project/subduction/</guid>
-      <description>&lt;p&gt;I am interested in understanding earthquake and tsunami hazards in major subduction zones around the world, e.g., East Japan, Nankai Trough, Chile, Peru, Cascadia, Alaska, Sumatra, New Zealand, etc. One of the significant questions I hope to address is the tsunamigenic processes of shallow megathrust and outer wedge of the forearc, and the associated tsunami propagation and coastal inundation processes. I am also interested in the rheology and heterogeneity of deeper megathrusts and their implications for seismic behavior and coastal shaking.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

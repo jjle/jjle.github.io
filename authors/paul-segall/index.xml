@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Segall on J. Jiang</title>
+    <link>https://jjle.github.io/authors/paul-segall/</link>
+    <description>Recent content in Paul Segall on J. Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jjle.github.io/authors/paul-segall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
+      <link>https://jjle.github.io/publication/erickson-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/erickson-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
