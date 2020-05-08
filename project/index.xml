@@ -6,10 +6,19 @@
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deformation and Seismicity due to Human Activities</title>
+      <link>https://jjle.github.io/project/land-use/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://jjle.github.io/project/land-use/</guid>
+      <description>In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation. The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust.</description>
+    </item>
     
     <item>
       <title>Earthquake and Fault Zone Dynamics</title>
@@ -27,15 +36,6 @@
       
       <guid>https://jjle.github.io/project/subduction/</guid>
       <description>I am interested in understanding earthquake and tsunami hazards in major subduction zones around the world, e.g., East Japan, Nankai Trough, Chile, Peru, Cascadia, Alaska, Sumatra, New Zealand, etc. One of the significant questions I hope to address is the tsunamigenic processes of shallow megathrust and outer wedge of the forearc, and the associated tsunami propagation and coastal inundation processes. I am also interested in the rheology and heterogeneity of deeper megathrusts and their implications for seismic behavior and coastal shaking.</description>
-    </item>
-    
-    <item>
-      <title>Ground Deformation due to Human Activities</title>
-      <link>https://jjle.github.io/project/land-use/</link>
-      <pubDate>Sat, 27 Feb 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/project/land-use/</guid>
-      <description>In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation. The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust.</description>
     </item>
     
     <item>
