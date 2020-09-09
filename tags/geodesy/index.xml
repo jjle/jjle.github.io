@@ -6,26 +6,26 @@
     <description>Recent content in geodesy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/geodesy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deformation and Seismicity due to Human Activities</title>
-      <link>https://jjle.github.io/project/land-use/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      <title>Ground Deformation and Seismicity</title>
+      <link>https://jjle.github.io/project/deformation/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/project/land-use/</guid>
+      <guid>https://jjle.github.io/project/deformation/</guid>
       <description>In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation. The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust.</description>
     </item>
     
     <item>
       <title>Integration of Seismic-Geodetic Observations</title>
-      <link>https://jjle.github.io/project/data/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
+      <link>https://jjle.github.io/backup-material/data/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/project/data/</guid>
+      <guid>https://jjle.github.io/backup-material/data/</guid>
       <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip during and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>
     </item>
     

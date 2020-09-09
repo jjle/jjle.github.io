@@ -25,7 +25,7 @@ Create a new blog post as usual Run the following commands in your Terminal, sub
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://jjle.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/post/getting-started/</guid>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
@@ -40,7 +40,7 @@ Follow our easy step by step guide to learn how to build your own free website w
       
       <guid>https://jjle.github.io/author/admin/</guid>
       <description>Hi! I am a geophysicist, born and raised in China and trained in Southern California. I am fascinated by the dynamic processes of the Earth and strive to understand their underlying physical mechanisms and predictability, with the ultimate goals to improve the assessment and migitation of geo-hazards and safe exploration of geo-energy.
-My current research is focused on Earth&amp;rsquo;s deformation processes due to faulting and human activities over time scales spanning seconds to centuries, through a combination of geophysical observational techniques, primiarly Global Positioning System (GPS) and Interferometric Synthetic Aperture Radar (InSAR), seismicity catalogue, and laboratory-based mechanical models.</description>
+My research is focused on Earth&amp;rsquo;s deformation processes due to faulting and human activities over time scales spanning seconds to centuries, through a combination of geophysical observational techniques, primiarly Global Positioning System (GPS) and Interferometric Synthetic Aperture Radar (InSAR), seismicity catalogue, and laboratory-based mechanical models.</description>
     </item>
     
   </channel>
