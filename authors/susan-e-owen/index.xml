@@ -6,17 +6,26 @@
     <description>Recent content in Susan E Owen on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 03:12:45 +0000</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/authors/susan-e-owen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Iquique earthquake sequence of April 2014: Bayesian modeling accounting for prediction uncertainty</title>
-      <link>https://jjle.github.io/publication/duputel-2015-jt/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate>
+      <title>The 2011 Magnitude 9.0 Tohoku-Oki Earthquake: Mosaicking the Megathrust from Seconds to Centuries</title>
+      <link>https://jjle.github.io/publication/simons-2011/</link>
+      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/duputel-2015-jt/</guid>
+      <guid>https://jjle.github.io/publication/simons-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iquique Earthquake Sequence of April 2014: Bayesian Modeling Accounting for Prediction Uncertainty</title>
+      <link>https://jjle.github.io/publication/duputel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/duputel-2015/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/publication/minson-2014-gg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: mosaicking the megathrust from seconds to centuries</title>
-      <link>https://jjle.github.io/publication/simons-2011-ce/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/publication/simons-2011-ce/</guid>
       <description></description>
     </item>
     

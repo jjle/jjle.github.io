@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tsunami on </title>
+    <link>https://jjle.github.io/tags/tsunami/</link>
+    <description>Recent content in tsunami on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jjle.github.io/tags/tsunami/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rupture Evolution of the 2006 Java Tsunami Earthquake and the Possible Role of Splay Faults</title>
+      <link>https://jjle.github.io/publication/fan-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/fan-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sources of Shaking and Flooding during the Tohoku-Oki Earthquake: A Mixture of Rupture Styles</title>
+      <link>https://jjle.github.io/publication/wei-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/wei-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

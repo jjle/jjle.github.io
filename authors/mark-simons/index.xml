@@ -6,53 +6,62 @@
     <description>Recent content in Mark Simons on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 03:12:45 +0000</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/authors/mark-simons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Strain budget of the Ecuador--Colombia subduction zone: A stochastic view</title>
-      <link>https://jjle.github.io/publication/gombert-2018-pf/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      <title>A Bayesian Source Model for the 2004 Great Sumatra-Andaman Earthquake</title>
+      <link>https://jjle.github.io/publication/bletery-2016/</link>
+      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/gombert-2018-pf/</guid>
+      <guid>https://jjle.github.io/publication/bletery-2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Depth varying rupture properties during the 2015 Mw 7.8 Gorkha (Nepal) earthquake</title>
-      <link>https://jjle.github.io/publication/yue-2017-cu/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 -0500</pubDate>
+      <title>Depth Varying Rupture Properties during the 2015 Mw 7.8 Gorkha (Nepal) Earthquake</title>
+      <link>https://jjle.github.io/publication/yue-2017/</link>
+      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/yue-2017-cu/</guid>
+      <guid>https://jjle.github.io/publication/yue-2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probabilistic imaging of tsunamigenic seafloor deformation during the 2011 Tohoku-oki Earthquake</title>
-      <link>https://jjle.github.io/publication/jiang-2016-mp/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 -0600</pubDate>
+      <title>Strain Budget of the Ecuador–Colombia Subduction Zone: A Stochastic View</title>
+      <link>https://jjle.github.io/publication/gombert-2018/</link>
+      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/jiang-2016-mp/</guid>
+      <guid>https://jjle.github.io/publication/gombert-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Bayesian source model for the 2004 great Sumatra-Andaman earthquake</title>
-      <link>https://jjle.github.io/publication/bletery-2016-oy/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 -0500</pubDate>
+      <title>The 2011 Magnitude 9.0 Tohoku-Oki Earthquake: Mosaicking the Megathrust from Seconds to Centuries</title>
+      <link>https://jjle.github.io/publication/simons-2011/</link>
+      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/bletery-2016-oy/</guid>
+      <guid>https://jjle.github.io/publication/simons-2011/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Iquique earthquake sequence of April 2014: Bayesian modeling accounting for prediction uncertainty</title>
-      <link>https://jjle.github.io/publication/duputel-2015-jt/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 -0500</pubDate>
+      <title>Probabilistic Imaging of Tsunamigenic Seafloor Deformation during the 2011 Tohoku-Oki Earthquake</title>
+      <link>https://jjle.github.io/publication/jiang-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/duputel-2015-jt/</guid>
+      <guid>https://jjle.github.io/publication/jiang-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iquique Earthquake Sequence of April 2014: Bayesian Modeling Accounting for Prediction Uncertainty</title>
+      <link>https://jjle.github.io/publication/duputel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/duputel-2015/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/publication/minson-2014-gg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The 2011 magnitude 9.0 Tohoku-Oki earthquake: mosaicking the megathrust from seconds to centuries</title>
-      <link>https://jjle.github.io/publication/simons-2011-ce/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/publication/simons-2011-ce/</guid>
       <description></description>
     </item>
     

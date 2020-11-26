@@ -6,7 +6,7 @@
     <description>Recent content in Publication_types on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 03:16:17 +0000</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>2</title>
       <link>https://jjle.github.io/publication_types/2/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2020 03:16:17 +0000</pubDate>
       
       <guid>https://jjle.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://jjle.github.io/publication_types/7/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication_types/7/</guid>
       <description></description>
     </item>
     
