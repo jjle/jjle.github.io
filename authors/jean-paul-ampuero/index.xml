@@ -6,19 +6,10 @@
     <description>Recent content in Jean-Paul Ampuero on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2020 03:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/authors/jean-paul-ampuero/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The 2011 Magnitude 9.0 Tohoku-Oki Earthquake: Mosaicking the Megathrust from Seconds to Centuries</title>
-      <link>https://jjle.github.io/publication/simons-2011/</link>
-      <pubDate>Thu, 26 Nov 2020 03:12:45 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/simons-2011/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
@@ -35,6 +26,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/publication/duputel-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2011 Magnitude 9.0 Tohoku-Oki Earthquake: Mosaicking the Megathrust from Seconds to Centuries</title>
+      <link>https://jjle.github.io/publication/simons-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/simons-2011/</guid>
       <description></description>
     </item>
     

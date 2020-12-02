@@ -9,36 +9,6 @@
   
     <url>
     
-      <loc>https://jjle.github.io/publication/michel-2017/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/publication/bletery-2016/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/publication/yue-2017/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/publication/gombert-2018/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/publication/simons-2011/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://jjle.github.io/publication/jiang-2020-d/</loc>
       <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -75,6 +45,12 @@
   
     <url>
     
+      <loc>https://jjle.github.io/publication/gombert-2018/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/publication/xu-2018-a/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -82,6 +58,18 @@
     <url>
     
       <loc>https://jjle.github.io/publication/jiang-2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/publication/yue-2017/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/publication/michel-2017/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
   
@@ -119,6 +107,12 @@
     
       <loc>https://jjle.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/publication/bletery-2016/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -183,6 +177,12 @@
   
     <url>
     
+      <loc>https://jjle.github.io/publication/simons-2011/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/</loc>
       <lastmod>2030-06-01T13:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -195,11 +195,6 @@
   
     <url>
     
-      <loc>https://jjle.github.io/home/</loc>
-    </url>
-  
-    <url>
-    
       <loc>https://jjle.github.io/authors/junle-jiang/</loc>
       <lastmod>2020-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -208,7 +203,7 @@
     <url>
     
       <loc>https://jjle.github.io/publication_types/2/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2020-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -243,21 +238,21 @@
     <url>
     
       <loc>https://jjle.github.io/authors/angelyn-moore/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/angelyn-w-moore/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/anthony-sladen/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -312,21 +307,21 @@
     <url>
     
       <loc>https://jjle.github.io/authors/baptiste-gombert/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/bayesian/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/bayesian-inversion/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -361,7 +356,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/bryan-riel/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -402,7 +397,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/cunren-liang/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -437,7 +432,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/donald-v-helmberger/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -451,7 +446,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/ecuadorcolombia-subduction-zone/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -465,21 +460,21 @@
     <url>
     
       <loc>https://jjle.github.io/authors/eric-fielding/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/eric-hetland/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/eric-j-fielding/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -521,7 +516,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/francisco-ortega/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2014-08-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -535,7 +530,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/frank-h-webb/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -563,7 +558,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/gorkha-earthquake/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -577,14 +572,14 @@
     <url>
     
       <loc>https://jjle.github.io/authors/han-yue/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/high-frequency-radiation/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -598,7 +593,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/hiroo-kanamori/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -633,21 +628,21 @@
     <url>
     
       <loc>https://jjle.github.io/authors/jean-paul-ampuero/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/jean-paul-ampuero/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/jean-philippe-avouac/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -661,14 +656,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/joint-inversion/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/authors/junle-jiang/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -682,7 +670,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/kinematic-rupture-process-inversion/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -717,7 +705,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/lingsen-meng/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -731,14 +719,14 @@
     <url>
     
       <loc>https://jjle.github.io/authors/luis-rivera/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/main-himalayan-thrust/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -752,7 +740,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/mark-simons/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -773,7 +761,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/megathrusts/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -794,14 +782,14 @@
     <url>
     
       <loc>https://jjle.github.io/authors/nadia-lapusta/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/partial-ruptures/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -842,27 +830,27 @@
     <url>
     
       <loc>https://jjle.github.io/publication_types/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2020-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/publication/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/pulse/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/quentin-bletery/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -882,7 +870,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/risheng-chu/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -903,7 +891,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/romain-jolivet/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -931,7 +919,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/sarah-e-minson/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2014-08-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -945,7 +933,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/sergey-v-samsonov/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -959,7 +947,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/shengji-wei/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -998,7 +986,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/sumatra-andaman/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1012,14 +1000,14 @@
     <url>
     
       <loc>https://jjle.github.io/authors/susan-e-owen/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/susan-owen/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1033,7 +1021,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/sylvain-michel/</loc>
-      <lastmod>2020-11-26T03:16:17+00:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1138,7 +1126,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/zacharie-duputel/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1166,7 +1154,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/bayesian-inversion/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1215,7 +1203,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/earthquake/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1243,7 +1231,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/geodetic-coupling-model/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1257,14 +1245,14 @@
     <url>
     
       <loc>https://jjle.github.io/tags/inverse-theory/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/kinematic-source-model/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1327,14 +1315,14 @@
     <url>
     
       <loc>https://jjle.github.io/tags/slip-model/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/strain-budget/</loc>
-      <lastmod>2020-11-26T03:12:45+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
