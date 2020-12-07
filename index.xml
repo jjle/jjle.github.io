@@ -59,9 +59,9 @@
       <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>&lt;p&gt;We study &lt;strong&gt;surface changes, ground deformation, and seismicity in various settings&lt;/strong&gt;. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of &lt;strong&gt;tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production)&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).&lt;/p&gt;
 
-&lt;p&gt;Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity. The overarching goal is to improve our understanding of earthquake triggering and the state and heterogeneity of stress in the shallow crust. Our research areas include &lt;strong&gt;Central and Southern California, Oklahoma, and Southern Kansas&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity. The overarching goal is to improve our understanding of earthquake triggering and the state and heterogeneity of stress in the shallow crust. Our research areas include Central and Southern California, Oklahoma, and Southern Kansas.&lt;/p&gt;
 </description>
     </item>
     
@@ -81,9 +81,9 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
-      <description>&lt;p&gt;Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing &lt;strong&gt;a Bayesian probabilistic inference framework (analytical and numerical sampling approaches)&lt;/strong&gt; with an emphasis on &lt;strong&gt;uncertainty quantification of observations and physical modeling&lt;/strong&gt;, along with its impact on our predictions.&lt;/p&gt;
+      <description>&lt;p&gt;Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.&lt;/p&gt;
 
-&lt;p&gt;The second, complementary part of my research involves &lt;strong&gt;developing cross-scale computational models with detailed physics and predictive powers&lt;/strong&gt; to understand earthquakes, tsunamis, or slow slip. We are also interested in the &lt;strong&gt;verification and validation&lt;/strong&gt; of these complex models. I take a special interest in the synergy of developing inverse and forward modeling in geophysical problems to eventually improve observation-drive, physics-based inference about the future behavior of our Earth.&lt;/p&gt;
+&lt;p&gt;The second, complementary part of my research involves developing cross-scale computational models with detailed physics and predictive powers to understand earthquakes, tsunamis, or slow slip. We are also interested in the verification and validation of these complex models. I take a special interest in the synergy of developing inverse and forward modeling in geophysical problems to eventually improve observation-drive, physics-based inference about the future behavior of our Earth.&lt;/p&gt;
 </description>
     </item>
     
