@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>surface change on </title>
+    <link>https://jjle.github.io/tags/surface-change/</link>
+    <description>Recent content in surface change on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0600</lastBuildDate>
+    
+	<atom:link href="https://jjle.github.io/tags/surface-change/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Surface Change, Ground Deformation, and Seismicity</title>
+      <link>https://jjle.github.io/project/deformation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/project/deformation/</guid>
+      <description>We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).
+Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity.</description>
+    </item>
+    
+  </channel>
+</rss>

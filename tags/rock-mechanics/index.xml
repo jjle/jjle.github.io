@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rock mechanics on </title>
+    <link>https://jjle.github.io/tags/rock-mechanics/</link>
+    <description>Recent content in rock mechanics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:02 -0600</lastBuildDate>
+    
+	<atom:link href="https://jjle.github.io/tags/rock-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fault Zone Mechanics and Earthquake Physics</title>
+      <link>https://jjle.github.io/project/earthquake/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/project/earthquake/</guid>
+      <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
+    </item>
+    
+  </channel>
+</rss>

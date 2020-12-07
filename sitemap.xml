@@ -21,6 +21,24 @@
   
     <url>
     
+      <loc>https://jjle.github.io/project/deformation/</loc>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/project/earthquake/</loc>
+      <lastmod>2020-01-01T00:00:02-06:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/project/computation/</loc>
+      <lastmod>2020-01-01T00:00:00-06:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/publication/tymofyeyeva-2019/</loc>
       <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -87,18 +105,6 @@
   
     <url>
     
-      <loc>https://jjle.github.io/project/deformation/</loc>
-      <lastmod>2016-05-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/project/earthquake/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://jjle.github.io/backup-material/subduction/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
@@ -155,12 +161,6 @@
     
       <loc>https://jjle.github.io/backup-material/seas/</loc>
       <lastmod>2014-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://jjle.github.io/project/computation/</loc>
-      <lastmod>2014-03-27T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -823,7 +823,7 @@
     <url>
     
       <loc>https://jjle.github.io/project/</loc>
-      <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1140,7 +1140,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/anthropogenic/</loc>
-      <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1168,7 +1168,7 @@
     <url>
     
       <loc>https://jjle.github.io/tags/computation/</loc>
-      <lastmod>2014-03-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1181,15 +1181,15 @@
   
     <url>
     
-      <loc>https://jjle.github.io/tags/crustal-faults/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <loc>https://jjle.github.io/tags/data-inference/</loc>
+      <lastmod>2015-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://jjle.github.io/tags/data-inference/</loc>
-      <lastmod>2015-04-27T00:00:00-05:00</lastmod>
+      <loc>https://jjle.github.io/tags/deformation/</loc>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1216,6 +1216,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/tags/fault/</loc>
+      <lastmod>2020-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/tags/fault-mechanics/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1223,8 +1230,15 @@
   
     <url>
     
+      <loc>https://jjle.github.io/tags/faults/</loc>
+      <lastmod>2020-01-01T00:00:02-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/tags/geodesy/</loc>
-      <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1265,6 +1279,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/tags/megathrust/</loc>
+      <lastmod>2020-01-01T00:00:02-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/tags/microseismicity/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1286,6 +1307,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/tags/rock-mechanics/</loc>
+      <lastmod>2020-01-01T00:00:02-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/tags/seafloor-deformation/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1294,14 +1322,14 @@
     <url>
     
       <loc>https://jjle.github.io/tags/seismicity/</loc>
-      <lastmod>2016-05-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/tags/seismology/</loc>
-      <lastmod>2015-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1337,6 +1365,13 @@
     
       <loc>https://jjle.github.io/tags/subduction-zones/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/tags/surface-change/</loc>
+      <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
     </url>
   

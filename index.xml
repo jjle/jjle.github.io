@@ -54,6 +54,40 @@
     </item>
     
     <item>
+      <title>Surface Change, Ground Deformation, and Seismicity</title>
+      <link>https://jjle.github.io/project/deformation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/project/deformation/</guid>
+      <description>&lt;p&gt;We study &lt;strong&gt;surface changes, ground deformation, and seismicity in various settings&lt;/strong&gt;. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of &lt;strong&gt;tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity. The overarching goal is to improve our understanding of earthquake triggering and the state and heterogeneity of stress in the shallow crust. Our research areas include &lt;strong&gt;Central and Southern California, Oklahoma, and Southern Kansas&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fault Zone Mechanics and Earthquake Physics</title>
+      <link>https://jjle.github.io/project/earthquake/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/project/earthquake/</guid>
+      <description>&lt;p&gt;My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Geophysics</title>
+      <link>https://jjle.github.io/project/computation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/project/computation/</guid>
+      <description>&lt;p&gt;Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing &lt;strong&gt;a Bayesian probabilistic inference framework (analytical and numerical sampling approaches)&lt;/strong&gt; with an emphasis on &lt;strong&gt;uncertainty quantification of observations and physical modeling&lt;/strong&gt;, along with its impact on our predictions.&lt;/p&gt;
+
+&lt;p&gt;The second, complementary part of my research involves &lt;strong&gt;developing cross-scale computational models with detailed physics and predictive powers&lt;/strong&gt; to understand earthquakes, tsunamis, or slow slip. We are also interested in the &lt;strong&gt;verification and validation&lt;/strong&gt; of these complex models. I take a special interest in the synergy of developing inverse and forward modeling in geophysical problems to eventually improve observation-drive, physics-based inference about the future behavior of our Earth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Slow Slip Event on the Southern San Andreas Fault Triggered by the 2017 Mw8.2 Chiapas (Mexico) Earthquake</title>
       <link>https://jjle.github.io/publication/tymofyeyeva-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -197,40 +231,6 @@ rm Untitled.md
       
       <guid>https://jjle.github.io/publication/fan-2017-a/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Deeper Penetration of Large Earthquakes on Seismically Quiescent Faults</title>
-      <link>https://jjle.github.io/publication/jiang-2016/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/jiang-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ground Deformation and Seismicity</title>
-      <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>&lt;p&gt;In this ongoing project, I examine ground displacement histories with Interferometric Synthetic Aperture Radar (InSAR) in areas with pronounced levels of anthropogenic activity, with a focus on correlations between the rate and depth of mass change vs. the existence or non-existence of changes in seismicity rates or deformation.  The overarching goal is to improve our understanding of when anthropogenic earthquakes are or are not triggered, and what that tells us about the average state and heterogeneity of stress in the shallow crust. One of my current focus areas is the geothermal plants in Imperial Valley, California, where fluids are being actively extracted and injected into the ground.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recent Conference Presentations&lt;/strong&gt; &lt;br /&gt;
-Lohman, R. B., Jordan, T., &amp;amp; Jiang, J. (2018, 08). Soil moisture effects on InSAR time series in arid regions. Poster Presentation at 2018 SCEC Annual Meeting. &lt;a href=&#34;https://www.scec.org/publication/8419&#34; target=&#34;_blank&#34;&gt;SCEC Contribution 8419&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jiang, J., &amp;amp; Lohman, R. B. (2019, 08). Time-dependent deformation and seismicity in the Imperial Valley, California. Poster Presentation at 2019 SCEC Annual Meeting. &lt;a href=&#34;https://www.scec.org/publication/9781&#34; target=&#34;_blank&#34;&gt;SCEC Contribution 9781&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Earthquake and Fault Zone Dynamics</title>
-      <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/project/earthquake/</guid>
-      <description>&lt;p&gt;My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
