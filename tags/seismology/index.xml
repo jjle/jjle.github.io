@@ -6,7 +6,7 @@
     <description>Recent content in seismology on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/seismology/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.
@@ -24,7 +24,7 @@ The second, complementary part of my research involves developing cross-scale co
     <item>
       <title>Integration of Seismic-Geodetic Observations</title>
       <link>https://jjle.github.io/backup-material/data/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/backup-material/data/</guid>
       <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip during and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>

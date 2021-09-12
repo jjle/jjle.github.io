@@ -6,7 +6,7 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Academic</title>
       <link>https://jjle.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/academic/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Computational seismology; Earthquake source observations; Inverse theory; Probability distributions</title>
       <link>https://jjle.github.io/tags/computational-seismology-earthquake-source-observations-inverse-theory-probability-distributions/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/computational-seismology-earthquake-source-observations-inverse-theory-probability-distributions/</guid>
       <description></description>
@@ -266,7 +266,7 @@
     <item>
       <title>SEAS</title>
       <link>https://jjle.github.io/tags/seas/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/seas/</guid>
       <description></description>
@@ -365,7 +365,7 @@
     <item>
       <title>anthropogenic</title>
       <link>https://jjle.github.io/tags/anthropogenic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/anthropogenic/</guid>
       <description></description>
@@ -392,7 +392,7 @@
     <item>
       <title>community-work</title>
       <link>https://jjle.github.io/tags/community-work/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/community-work/</guid>
       <description></description>
@@ -401,7 +401,7 @@
     <item>
       <title>computation</title>
       <link>https://jjle.github.io/tags/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/computation/</guid>
       <description></description>
@@ -419,7 +419,7 @@
     <item>
       <title>data-inference</title>
       <link>https://jjle.github.io/tags/data-inference/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/data-inference/</guid>
       <description></description>
@@ -428,7 +428,7 @@
     <item>
       <title>deformation</title>
       <link>https://jjle.github.io/tags/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/deformation/</guid>
       <description></description>
@@ -464,7 +464,7 @@
     <item>
       <title>fault</title>
       <link>https://jjle.github.io/tags/fault/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/fault/</guid>
       <description></description>
@@ -482,7 +482,7 @@
     <item>
       <title>faults</title>
       <link>https://jjle.github.io/tags/faults/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/faults/</guid>
       <description></description>
@@ -491,7 +491,7 @@
     <item>
       <title>geodesy</title>
       <link>https://jjle.github.io/tags/geodesy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/geodesy/</guid>
       <description></description>
@@ -545,7 +545,7 @@
     <item>
       <title>megathrust</title>
       <link>https://jjle.github.io/tags/megathrust/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/megathrust/</guid>
       <description></description>
@@ -563,7 +563,7 @@
     <item>
       <title>numerical-simulation</title>
       <link>https://jjle.github.io/tags/numerical-simulation/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/numerical-simulation/</guid>
       <description></description>
@@ -581,7 +581,7 @@
     <item>
       <title>rock mechanics</title>
       <link>https://jjle.github.io/tags/rock-mechanics/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/rock-mechanics/</guid>
       <description></description>
@@ -599,7 +599,7 @@
     <item>
       <title>seismicity</title>
       <link>https://jjle.github.io/tags/seismicity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/seismicity/</guid>
       <description></description>
@@ -608,7 +608,7 @@
     <item>
       <title>seismology</title>
       <link>https://jjle.github.io/tags/seismology/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/seismology/</guid>
       <description></description>
@@ -653,7 +653,7 @@
     <item>
       <title>subduction-zones</title>
       <link>https://jjle.github.io/tags/subduction-zones/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/subduction-zones/</guid>
       <description></description>
@@ -662,7 +662,7 @@
     <item>
       <title>surface change</title>
       <link>https://jjle.github.io/tags/surface-change/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/tags/surface-change/</guid>
       <description></description>

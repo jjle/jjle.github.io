@@ -6,7 +6,7 @@
     <description>Recent content in seismicity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/seismicity/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
       <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
       <description>We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).
@@ -24,7 +24,7 @@ Our focus is on the connections between surface observations and subsurface proc
     <item>
       <title>Fault Zone Mechanics and Earthquake Physics</title>
       <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
       <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
@@ -33,7 +33,7 @@ Our focus is on the connections between surface observations and subsurface proc
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.

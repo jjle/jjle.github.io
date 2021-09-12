@@ -25,7 +25,7 @@ Create a new blog post as usual Run the following commands in your Terminal, sub
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>https://jjle.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/post/getting-started/</guid>
       <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
