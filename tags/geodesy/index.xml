@@ -17,7 +17,8 @@
       <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>Characterizing near-surface and subsurface processes in industrial and tectonic settings</description>
+      <description>We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).
+Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity.</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@
       <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
-      <description>Deciphering interactions of transient and long-term processes and their physical mechanisms</description>
+      <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
     </item>
     
     <item>
@@ -35,7 +36,7 @@
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/backup-material/data/</guid>
-      <description>Utilizing diverse datasets to probe multiscale dynamic processes</description>
+      <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip during and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>
     </item>
     
   </channel>
