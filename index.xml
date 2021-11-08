@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -17,11 +16,11 @@
       <guid>https://jjle.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
 
   &lt;/div&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 
@@ -170,17 +169,18 @@ rm Untitled.md
     
     <item>
       <title>Example Page</title>
-      <link>https://jjle.github.io/tutorial/example/</link>
+      <link>https://jjle.github.io/opportunities/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/tutorial/example/</guid>
+      <guid>https://jjle.github.io/opportunities/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I started as an Assistant Professor of Geophysics in the &lt;a href=&#34;http://www.ou.edu/mcee/geosciences&#34; target=&#34;_blank&#34;&gt;School of Geosciences at the University of Oklahoma&lt;/a&gt; in Fall 2020. &lt;strong&gt;I am open to recruiting MS/PhD students and a postdoc to join the team. Please contact me for research opportunities if you are interested!&lt;/strong&gt;
+&amp;hellip;&lt;/p&gt;
 
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
 
