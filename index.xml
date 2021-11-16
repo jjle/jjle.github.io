@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -17,11 +16,11 @@
       <guid>https://jjle.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
 
   &lt;/div&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 
@@ -73,12 +72,24 @@
     </item>
     
     <item>
-      <title>Mentor Page</title>
+      <title>Mentoring Philosophy</title>
       <link>https://jjle.github.io/opportunities/mentor/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/opportunities/mentor/</guid>
       <description>
+
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;
+&lt;span style=&#34;color:black&#34;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:brown&#34;&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FF0018&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFA52C&#34;&gt;&lt;strong&gt;t&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFFF41&#34;&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#008018&#34;&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#0000F9&#34;&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#86007D&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFC0CB&#34;&gt;&lt;strong&gt;G&lt;/strong&gt;&lt;/span&gt;
+&lt;/font&gt;&lt;/p&gt;
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 
