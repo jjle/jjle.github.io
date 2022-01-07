@@ -6,7 +6,7 @@
     <description>Recent content in anthropogenic on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0800</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/anthropogenic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
       <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>Characterizing near-surface and subsurface processes in industrial and tectonic settings</description>
+      <description>We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).
+Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity.</description>
     </item>
     
   </channel>
