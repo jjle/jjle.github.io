@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -6,22 +5,22 @@
     <description>Recent content on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
       <link>https://jjle.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
 
   &lt;/div&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 
@@ -38,7 +37,7 @@
     <item>
       <title>Career Page</title>
       <link>https://jjle.github.io/opportunities/career/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/opportunities/career/</guid>
       <description>
@@ -59,7 +58,7 @@
     <item>
       <title>Grad Page</title>
       <link>https://jjle.github.io/opportunities/grad/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/opportunities/grad/</guid>
       <description>
@@ -75,7 +74,7 @@
     <item>
       <title>Mentoring Philosophy</title>
       <link>https://jjle.github.io/opportunities/mentor/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/opportunities/mentor/</guid>
       <description>
@@ -130,7 +129,7 @@
     <item>
       <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
       <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
       <description>&lt;p&gt;We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).&lt;/p&gt;
@@ -142,7 +141,7 @@
     <item>
       <title>Fault Zone Mechanics and Earthquake Physics</title>
       <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
       <description>&lt;p&gt;My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.&lt;/p&gt;
@@ -152,7 +151,7 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>&lt;p&gt;Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.&lt;/p&gt;

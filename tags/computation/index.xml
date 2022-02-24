@@ -6,7 +6,7 @@
     <description>Recent content in computation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/computation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,10 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
-      <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.
-The second, complementary part of my research involves developing cross-scale computational models with detailed physics and predictive powers to understand earthquakes, tsunamis, or slow slip.</description>
+      <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
     </item>
     
   </channel>
