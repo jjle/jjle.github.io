@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on </title>
+    <link>https://jjle.github.io/teaching/</link>
+    <description>Recent content in Courses on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jjle.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career Page</title>
+      <link>https://jjle.github.io/teaching/career/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/career/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 I started as an Assistant Professor of Geophysics in the School of Geosciences at the University of Oklahoma in Fall 2020. I am open to recruiting MS/PhD students and a postdoc to join the team. Please contact me for research opportunities if you are interested! &amp;hellip;
+Tip 2 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Grad Page</title>
+      <link>https://jjle.github.io/teaching/grad/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/grad/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mentoring Philosophy</title>
+      <link>https://jjle.github.io/teaching/mentor/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/mentor/</guid>
+      <description>M e n t o r i n G 
+In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

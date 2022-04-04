@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
@@ -17,11 +16,11 @@
       <guid>https://jjle.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+    
+Click on the **Slides** button above to view the built-in slides feature.
 
   &lt;/div&gt;
 &lt;/div&gt;
-
 
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 
@@ -66,6 +65,27 @@
     </item>
     
     <item>
+      <title>Career Page</title>
+      <link>https://jjle.github.io/teaching/career/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/career/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;I started as an Assistant Professor of Geophysics in the &lt;a href=&#34;http://www.ou.edu/mcee/geosciences&#34; target=&#34;_blank&#34;&gt;School of Geosciences at the University of Oklahoma&lt;/a&gt; in Fall 2020. &lt;strong&gt;I am open to recruiting MS/PhD students and a postdoc to join the team. Please contact me for research opportunities if you are interested!&lt;/strong&gt;
+&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Grad Page</title>
       <link>https://jjle.github.io/opportunities/grad/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
@@ -82,11 +102,55 @@
     </item>
     
     <item>
+      <title>Grad Page</title>
+      <link>https://jjle.github.io/teaching/grad/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/grad/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mentoring Philosophy</title>
       <link>https://jjle.github.io/opportunities/mentor/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/opportunities/mentor/</guid>
+      <description>
+
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;
+&lt;span style=&#34;color:black&#34;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:brown&#34;&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FF0018&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFA52C&#34;&gt;&lt;strong&gt;t&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFFF41&#34;&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#008018&#34;&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#0000F9&#34;&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#86007D&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
+&lt;span style=&#34;color:#FFC0CB&#34;&gt;&lt;strong&gt;G&lt;/strong&gt;&lt;/span&gt;
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mentoring Philosophy</title>
+      <link>https://jjle.github.io/teaching/mentor/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/mentor/</guid>
       <description>
 
 &lt;p&gt;&lt;font size=&#34;5&#34;&gt;
@@ -176,87 +240,6 @@
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/publication/tymofyeyeva-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://jjle.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Strain Budget of the Ecuador–Colombia Subduction Zone: A Stochastic View</title>
-      <link>https://jjle.github.io/publication/gombert-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/gombert-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surface Creep Rate of the Southern San Andreas Fault Modulated by Stress Perturbations from Nearby Large Events</title>
-      <link>https://jjle.github.io/publication/xu-2018-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/xu-2018-a/</guid>
       <description></description>
     </item>
     
