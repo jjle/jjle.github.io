@@ -17,7 +17,8 @@
       <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>Characterizing near-surface and subsurface processes in industrial and tectonic settings</description>
+      <description>We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).
+Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity.</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@
       <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
-      <description>Deciphering interactions of transient and long-term processes and their physical mechanisms</description>
+      <description>My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.</description>
     </item>
     
     <item>
@@ -35,7 +36,8 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
-      <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
+      <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.
+The second, complementary part of my research involves developing cross-scale computational models with detailed physics and predictive powers to understand earthquakes, tsunamis, or slow slip.</description>
     </item>
     
     <item>
