@@ -6,10 +6,19 @@
     <description>Recent content in 2 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Apr 2022 01:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Incorporating Full Elastodynamic Effects and Dipping Fault Geometries in Community Code Verification Exercises for Simulations of Earthquake Sequences and Aseismic Slip (SEAS)</title>
+      <link>https://jjle.github.io/publication/erickson-2023/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/erickson-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detection of aseismic slip and poroelastic reservoir deformation at the North Brawley Geothermal Field from 2009-2019</title>

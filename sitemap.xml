@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>https://jjle.github.io/publication/erickson-2023/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/data/</loc>
       <lastmod>2022-10-20T00:00:00-05:00</lastmod>
     </url>
@@ -287,14 +293,14 @@
     <url>
     
       <loc>https://jjle.github.io/authors/junle-jiang/</loc>
-      <lastmod>2022-04-01T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/publication_types/2/</loc>
-      <lastmod>2022-04-01T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -314,6 +320,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/ahmed-e.-elbanna/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/authors/ahmed-elbanna/</loc>
       <lastmod>2020-03-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -321,8 +334,15 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/alexandre-chen/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/authors/alice-agnes-gabriel/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -330,6 +350,13 @@
     
       <loc>https://jjle.github.io/authors/allen-gontz/</loc>
       <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/andrea-perez-silva/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -391,7 +418,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/</loc>
-      <lastmod>2022-04-01T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -461,7 +488,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/brittany-a.-erickson/</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -482,20 +509,34 @@
     <url>
     
       <loc>https://jjle.github.io/authors/camilla-cattania/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/carsten-uphoff/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/authors/casper-pranger/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/chao-liang/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -572,7 +613,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/duo-li/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -628,7 +669,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/eric-m.-dunham/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -782,7 +823,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/jean-paul-ampuero/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -796,7 +837,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/jeremy-e.-kozdon/</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -866,7 +907,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/luca-dal-zilio/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -921,6 +962,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/martin-almquist/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/authors/martin-vall%C3%A9e/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -936,7 +984,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/meng-li/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -956,8 +1004,15 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/mohamed-abdelmeguid/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/authors/nadia-lapusta/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -971,7 +1026,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/paul-segall/</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -997,6 +1052,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/prithvi-thakur/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/project/</loc>
       <lastmod>2020-01-01T00:00:03-06:00</lastmod>
       <priority>0</priority>
@@ -1005,14 +1067,14 @@
     <url>
     
       <loc>https://jjle.github.io/publication_types/</loc>
-      <lastmod>2022-04-01T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://jjle.github.io/publication/</loc>
-      <lastmod>2022-04-01T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     </url>
   
     <url>
@@ -1087,7 +1149,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/ryosuke-ando/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1135,6 +1197,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/shuai-deng/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/slides/</loc>
       <priority>0</priority>
     </url>
@@ -1147,7 +1216,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/so-ozawa/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1209,6 +1278,13 @@
   
     <url>
     
+      <loc>https://jjle.github.io/authors/sylvain-d.-barbot/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://jjle.github.io/authors/sylvain-michel/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1225,6 +1301,13 @@
     
       <loc>https://jjle.github.io/authors/thomas-k.-rockwell/</loc>
       <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/tobias-w.-harvey/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1273,7 +1356,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/val%C3%A8re-lambert/</loc>
-      <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1301,7 +1384,7 @@
     <url>
     
       <loc>https://jjle.github.io/authors/yajing-liu/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1309,6 +1392,13 @@
     
       <loc>https://jjle.github.io/authors/yehuda-bock/</loc>
       <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/yihe-huang/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1322,7 +1412,21 @@
     <url>
     
       <loc>https://jjle.github.io/authors/ylona-van-dinther/</loc>
-      <lastmod>2022-03-02T01:21:47+00:00</lastmod>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/yoshihiro-kaneko/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/yudong-sun/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1330,6 +1434,13 @@
     
       <loc>https://jjle.github.io/authors/yuri-fialko/</loc>
       <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://jjle.github.io/authors/yuyun-yang/</loc>
+      <lastmod>2023-01-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
