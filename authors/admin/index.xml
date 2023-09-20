@@ -17,9 +17,7 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/post/jupyter/</guid>
-      <description>from IPython.core.display import Image Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)  print(&amp;quot;Welcome to Academic!&amp;quot;)  Welcome to Academic!  Install Python and Jupyter Install Anaconda which includes Python 3 and Jupyter notebook.
-Otherwise, for advanced users, install Jupyter notebook with pip3 install jupyter.
-Create a new blog post as usual Run the following commands in your Terminal, substituting &amp;lt;MY_WEBSITE_FOLDER&amp;gt; and my-post with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:</description>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
@@ -28,9 +26,7 @@ Create a new blog post as usual Run the following commands in your Terminal, sub
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/post/getting-started/</guid>
-      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
- View the documentation Ask a question Request a feature or report a bug Updating?</description>
+      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
     </item>
     
     <item>
@@ -39,8 +35,8 @@ Follow our easy step by step guide to learn how to build your own free website w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/author/admin/</guid>
-      <description>Hi! My research group study the dynamics and impacts of the Earth’s crustal processes due to natural forces and human activities from societal to geological timescales. These phenomena include microseismicity, large earthquakes, fault creep, ground uplift and subsidence in diverse settings such as geothermal fields, crustal faults, and subduction zones .
-We address the scientific problems using a combination of geodetic imaging (e.g., Global Navigation Satellite Systems &amp;amp; Interferometric Synthetic Aperture Radar), seismological observations (e.</description>
+      <description>My research group study the dynamics and impacts of the Earth’s crustal processes due to natural forces and human activities from societal to geological timescales. These phenomena include microseismicity, large earthquakes, tsunamis, fault creep, ground uplift and subsidence in diverse environments such as geothermal fields, crustal faults, and subduction zones .
+We address our scientific problems using geodetic imaging (e.g., Global Navigation Satellite Systems &amp;amp; Interferometric Synthetic Aperture Radar; GNSS/InSAR), seismological observations (e.</description>
     </item>
     
   </channel>
