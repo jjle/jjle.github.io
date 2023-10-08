@@ -17,8 +17,16 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
-      <description>Extracting important and relevant physics from data and developing models with predictive power will be a significant task in the future of Earth sciences. Many of my observation-oriented projects share the theme of utilizing a Bayesian probabilistic inference framework (analytical and numerical sampling approaches) with an emphasis on uncertainty quantification of observations and physical modeling, along with its impact on our predictions.
-The second, complementary part of my research involves developing cross-scale computational models with detailed physics and predictive powers to understand earthquakes, tsunamis, or slow slip.</description>
+      <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
+    </item>
+    
+    <item>
+      <title>Rupture Evolution of the 2006 Java Tsunami Earthquake and the Possible Role of Splay Faults</title>
+      <link>https://jjle.github.io/publication/fan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/publication/fan-2017/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +35,7 @@ The second, complementary part of my research involves developing cross-scale co
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/backup-material/data/</guid>
-      <description>I am particularly interested in exploring the wide spetrum of dynamic Earth processes by intergrating seismological and geodetic observations. These efforts include imaging space-time patterns of fault slip during and after earthquakes (strong motion, GPS, tide gauges, and tsunami waveforms), inferring frequency-dependent signals during the potential activation of splay faulting (seismic records and tsunami waveforms), and, more recently, imaging the continuous transition from earthquake arrest to postseismic fault slip (strong motion records, high-rate GPS, and daily GPS).</description>
+      <description>Utilizing diverse datasets to probe multiscale dynamic processes</description>
     </item>
     
   </channel>
