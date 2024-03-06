@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>anthropogenic</title>
+      <link>https://jjle.github.io/tags/anthropogenic/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/anthropogenic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Anthropogenic activity</title>
       <link>https://jjle.github.io/tags/anthropogenic-activity/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
@@ -21,20 +30,20 @@
     </item>
     
     <item>
+      <title>fault</title>
+      <link>https://jjle.github.io/tags/fault/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/fault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fault creep</title>
       <link>https://jjle.github.io/tags/fault-creep/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/tags/fault-creep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPS</title>
-      <link>https://jjle.github.io/tags/gps/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/gps/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,15 @@
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/tags/geothermal-operation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS</title>
+      <link>https://jjle.github.io/tags/gps/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/gps/</guid>
       <description></description>
     </item>
     
@@ -129,15 +147,6 @@
     </item>
     
     <item>
-      <title>anthropogenic</title>
-      <link>https://jjle.github.io/tags/anthropogenic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/tags/anthropogenic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>deformation</title>
       <link>https://jjle.github.io/tags/deformation/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
@@ -210,15 +219,6 @@
     </item>
     
     <item>
-      <title>fault</title>
-      <link>https://jjle.github.io/tags/fault/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/tags/fault/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>seismology</title>
       <link>https://jjle.github.io/tags/seismology/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
@@ -228,11 +228,11 @@
     </item>
     
     <item>
-      <title>Ecuador–Colombia subduction zone</title>
-      <link>https://jjle.github.io/tags/ecuadorcolombia-subduction-zone/</link>
+      <title>Bayesian</title>
+      <link>https://jjle.github.io/tags/bayesian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jjle.github.io/tags/ecuadorcolombia-subduction-zone/</guid>
+      <guid>https://jjle.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
@@ -251,6 +251,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/tags/coulomb-stress-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecuador–Colombia subduction zone</title>
+      <link>https://jjle.github.io/tags/ecuadorcolombia-subduction-zone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/ecuadorcolombia-subduction-zone/</guid>
       <description></description>
     </item>
     
@@ -318,6 +327,42 @@
     </item>
     
     <item>
+      <title>dynamic weakening</title>
+      <link>https://jjle.github.io/tags/dynamic-weakening/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/dynamic-weakening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>earthquake</title>
+      <link>https://jjle.github.io/tags/earthquake/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/earthquake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fault mechanics</title>
+      <link>https://jjle.github.io/tags/fault-mechanics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/fault-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geodetic locking</title>
+      <link>https://jjle.github.io/tags/geodetic-locking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/geodetic-locking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gorkha earthquake</title>
       <link>https://jjle.github.io/tags/gorkha-earthquake/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -363,6 +408,15 @@
     </item>
     
     <item>
+      <title>large earthquakes</title>
+      <link>https://jjle.github.io/tags/large-earthquakes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/large-earthquakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Main Himalayan Thrust</title>
       <link>https://jjle.github.io/tags/main-himalayan-thrust/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -377,6 +431,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/tags/megathrusts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microseismicity</title>
+      <link>https://jjle.github.io/tags/microseismicity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/microseismicity/</guid>
       <description></description>
     </item>
     
@@ -399,74 +462,20 @@
     </item>
     
     <item>
-      <title>Splay faults</title>
-      <link>https://jjle.github.io/tags/splay-faults/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/splay-faults/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dynamic weakening</title>
-      <link>https://jjle.github.io/tags/dynamic-weakening/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/dynamic-weakening/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>earthquake</title>
-      <link>https://jjle.github.io/tags/earthquake/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/earthquake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fault mechanics</title>
-      <link>https://jjle.github.io/tags/fault-mechanics/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/fault-mechanics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>geodetic locking</title>
-      <link>https://jjle.github.io/tags/geodetic-locking/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/geodetic-locking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>large earthquakes</title>
-      <link>https://jjle.github.io/tags/large-earthquakes/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/large-earthquakes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>microseismicity</title>
-      <link>https://jjle.github.io/tags/microseismicity/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/microseismicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>rate-and-state friction</title>
       <link>https://jjle.github.io/tags/rate-and-state-friction/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/tags/rate-and-state-friction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splay faults</title>
+      <link>https://jjle.github.io/tags/splay-faults/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/splay-faults/</guid>
       <description></description>
     </item>
     
@@ -494,33 +503,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian</title>
-      <link>https://jjle.github.io/tags/bayesian/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/bayesian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sumatra-Andaman</title>
-      <link>https://jjle.github.io/tags/sumatra-andaman/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/sumatra-andaman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tohoku-oki earthquake</title>
-      <link>https://jjle.github.io/tags/tohoku-oki-earthquake/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/tags/tohoku-oki-earthquake/</guid>
       <description></description>
     </item>
     
@@ -579,6 +561,24 @@
     </item>
     
     <item>
+      <title>Sumatra-Andaman</title>
+      <link>https://jjle.github.io/tags/sumatra-andaman/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/sumatra-andaman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tohoku-oki earthquake</title>
+      <link>https://jjle.github.io/tags/tohoku-oki-earthquake/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/tags/tohoku-oki-earthquake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>uncertainty characterization</title>
       <link>https://jjle.github.io/tags/uncertainty-characterization/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -606,15 +606,6 @@
     </item>
     
     <item>
-      <title>SEAS</title>
-      <link>https://jjle.github.io/tags/seas/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/tags/seas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>community-work</title>
       <link>https://jjle.github.io/tags/community-work/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
@@ -629,6 +620,15 @@
       <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/tags/numerical-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEAS</title>
+      <link>https://jjle.github.io/tags/seas/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/tags/seas/</guid>
       <description></description>
     </item>
     

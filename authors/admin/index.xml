@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on </title>
@@ -35,8 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jjle.github.io/author/admin/</guid>
-      <description>My research group study the dynamics and impacts of the Earth’s crustal processes due to natural forces and human activities from societal to geological timescales. These phenomena include microseismicity, large earthquakes, tsunamis, fault creep, ground uplift and subsidence in diverse environments such as geothermal fields, crustal faults, and subduction zones.
-We address various geoscience problems using geodetic imaging (e.g., Global Navigation Satellite Systems &amp;amp; Interferometric Synthetic Aperture Radar; GNSS/InSAR), seismological observations (e.</description>
+      <description>My research group study the dynamics and impacts of the Earth’s crustal processes due to natural forces and human activities from societal to geological timescales. These phenomena include microseismicity, large earthquakes, landslides, tsunamis, faulting, uplift/subsidence in diverse environments such as geothermal fields, crustal faults, and subduction zones.
+We address various geoscience problems using geodetic imaging (e.g., Global Navigation Satellite Systems &amp;amp; Interferometric Synthetic Aperture Radar; GNSS/InSAR), seismological observations (e.g., seismicity &amp;amp; structure), and laboratory-based computational modeling, with particular interests in multiscale inference and uncertainty quantification in geophysics.</description>
     </item>
     
   </channel>

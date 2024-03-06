@@ -9,235 +9,184 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>https://jjle.github.io/talk/example/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jjle.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
+      <guid>https://jjle.github.io/talk/</guid>
+      <description></description>
+    </item>
     
-Click on the **Slides** button above to view the built-in slides feature.
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+    <item>
+      <title>Professional Service</title>
+      <link>https://jjle.github.io/service/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/service/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;University of Oklahoma&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;2022&amp;ndash;         Faculty Liaison, &lt;a href=&#34;https://www.agu.org/bridge-program&#34;&gt;American Geophysical Union (AGU) Bridge Program&lt;/a&gt;&lt;br&gt;
+2021&amp;ndash;         Member, &lt;a href=&#34;https://www.ou.edu/mcee/about/diversity&#34;&gt;MCEE Diversity, Equity, and Inclusion (DEI) Council&lt;/a&gt;&lt;br&gt;
+2021&amp;ndash;         Member, &lt;a href=&#34;https://www.ou.edu/disc&#34;&gt;OU Data Institute for Societal Challenges (DISC)&lt;/a&gt; \&lt;/p&gt;
+&lt;p&gt;2023&amp;ndash;         Member, Energy Transition Geophysics Search Committee&lt;br&gt;
+2021&amp;ndash;         Member, Honors &amp;amp; Awards Committee&lt;br&gt;
+2020&amp;ndash;         Member, Computer Lab Committee&lt;br&gt;
+2020&amp;ndash;         Member, Graduate Admission &amp;amp; Affairs Committee&lt;br&gt;
+2020&amp;ndash;2021   Member and DEI Advocate, Environmental Geophysics Search Committee&lt;br&gt;
+2020&amp;ndash;2021   Member, Petroleum Geosciences Vision Committee \&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Broader Communities&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;2023&amp;ndash;         Member, &lt;a href=&#34;https://www.sz4d.org/&#34;&gt;SZ4D&lt;/a&gt; &lt;a href=&#34;https://www.sz4d.org/mcs&#34;&gt;Modeling Collaboratory for Subduction (MCS) Integrative Group&lt;/a&gt;&lt;br&gt;
+2017&amp;ndash;2023   Co-Leader (w/ &lt;a href=&#34;https://ix.cs.uoregon.edu/~bae/&#34;&gt;B. Erickson&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://vlambert.github.io/&#34;&gt;V. Lambert&lt;/a&gt;), &lt;a href=&#34;https://strike.scec.org/cvws/seas/index.html&#34;&gt;Community Code Verification SEAS Group&lt;/a&gt;&lt;br&gt;
+2022&amp;ndash;2023   Faculty Mentor, &lt;a href=&#34;https://www.aapigeosci.org/&#34;&gt;Asian Americans &amp;amp; Pacific Islanders in Geosciences (AAPIiG)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2022&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://www.scec.org/&#34;&gt;Southern California Earthquake Center (SCEC)&lt;/a&gt;&lt;br&gt;
+2022&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://geodynamics.org/&#34;&gt;Computational Infrastructure for Geodynamics (CIG)&lt;/a&gt;&lt;br&gt;
+2021&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://winsar.unavco.org/&#34;&gt;Western North America InSAR (WInSAR) Consortium&lt;/a&gt;&lt;br&gt;
+2022&amp;ndash;2023   Institutional Representative, &lt;a href=&#34;https://www.earthscope.org/&#34;&gt;EarthScope Consortium&lt;/a&gt; \&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**Reviewer for Proposals:**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+National Science Foundation (NSF), National Aeronautics and Space Administration (NASA), United States Geological Survey (USGS), American Chemical Society Petroleum Research Fund (ACS PRF), Dutch Research Council (NWO), German Research Foundation (DFG) \&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**Reviewer for Journals:**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Science, Science Advances, Geophysical Research Letters, Journal of Geophysical Research - Solid Earth, Geophysical Journal International, Earth and Planetary Science Letters, Scientific Reports, Bulletin of the Seismological Society of America, Seismological Research Letters, Earth Planets and Space, Earth and Space Science, Pure and Applied Geophysics, Tectonophysics, Remote Sensing, Geosciences, Energies, Sensors, Earthquake Science, etc.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Incorporating Full Elastodynamic Effects and Dipping Fault Geometries in Community Code Verification Exercises for Simulations of Earthquake Sequences and Aseismic Slip (SEAS)</title>
-      <link>https://jjle.github.io/publication/erickson-2023/</link>
+      <title>Research Opportunities</title>
+      <link>https://jjle.github.io/opportunities/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/opportunities/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;2024 Fall Admission&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Our group may recruit 1&amp;ndash;2 MS/PhD graduate students &lt;strong&gt;only&lt;/strong&gt; for the following research directions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Geodetic Imaging and Modeling&lt;/strong&gt;: Processing, modeling, and interpration of satellite-based InSAR/GNSS observations to characterize natural/anthropogenic near-surface/crustal processes and hazards. &lt;em&gt;Funding Sources&lt;/em&gt;: NASA/NSF/OU.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Computational Geomechanics/Seismology&lt;/strong&gt;: Developing and applying computational models of earthquake rupture, deformation, and fluid flow to understand natural and anthropogenic seismicity. &lt;em&gt;Funding Sources&lt;/em&gt;: NSF/OU.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;General Information&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;All of our graduate students are fully supported by Graduate Teaching/Research Assistantship (GTA/GRA). Students receive stipends, tuition waiver, and healthcare benefits, with fees often covered by additional departmental scholarships.&lt;/p&gt;
+&lt;p&gt;Please read the general expecations below and contact me if interested. Please include &lt;strong&gt;a statement of your interest/motivation, CV/resume, and transcript(s) (for students)&lt;/strong&gt; in the email.&lt;/p&gt;
+&lt;p&gt;For prospective MS/PhD students, you can find more details about our &lt;a href=&#34;https://www.ou.edu/mcee/geosciences/grad_degrees&#34;&gt;graduate program&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Undergraduate Students&lt;/strong&gt;:&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;_OU students_&lt;!-- raw HTML omitted --&gt;: I am always happy to discuss course(s) and potential research topics to explore.  \&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;_Other students_:&lt;!-- raw HTML omitted --&gt; We have hosted and look forward to virtual/on-site undergrad summer interns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MS Students&lt;/strong&gt;:
+You should mention your research interests, desired knowledge and skillsets, and plans for professional work or PhD-level research in future.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PhD Students&lt;/strong&gt;: You are expected to describe the broad scientific/engineering problem that you would like to pursue with my mentorship, and explain how your research interests and career plan fit in well with OU Geophysics Program and our research group.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Postdoctoral Researchers&lt;/strong&gt;: Please propose or inquire about research project(s) of our mutual interests, and envision how the diverse expertise/resources of OU Geosciences program and our group can help you advance your career.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jjle.github.io/publication/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jjle.github.io/publication/erickson-2023/</guid>
+      <guid>https://jjle.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Detection of aseismic slip and poroelastic reservoir deformation at the North Brawley Geothermal Field from 2009-2019</title>
-      <link>https://jjle.github.io/publication/materna-2022/</link>
-      <pubDate>Fri, 01 Apr 2022 01:21:47 +0000</pubDate>
+      <title>Datasets</title>
+      <link>https://jjle.github.io/data/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/publication/materna-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community-Driven Code Comparisons for Three-Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
-      <link>https://jjle.github.io/publication/jiang-2022/</link>
-      <pubDate>Wed, 02 Mar 2022 01:21:47 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/jiang-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career Page</title>
-      <link>https://jjle.github.io/opportunities/career/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/opportunities/career/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;I started as an Assistant Professor of Geophysics in the &lt;a href=&#34;http://www.ou.edu/mcee/geosciences&#34; target=&#34;_blank&#34;&gt;School of Geosciences at the University of Oklahoma&lt;/a&gt; in Fall 2020. &lt;strong&gt;I am open to recruiting MS/PhD students and a postdoc to join the team. Please contact me for research opportunities if you are interested!&lt;/strong&gt;
-&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>https://jjle.github.io/data/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Data Repositories for Recent Publications&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Jiang, J., Erickson, B. et al. (2021). Simulation Data for &amp;ldquo;Community-Driven Code Comparisons for Three-Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip (SEAS)&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Journal of Geophysical Research&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6299674&#34;&gt;doi:10.5281/zenodo.6299674&lt;/a&gt;. \&lt;/p&gt;
+&lt;p&gt;Materna, K., Barbour, A., Jiang, J., and Eneva (2022), Geodetic displacement data near North Brawley Geothermal Field, 2009-2019. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5949377&#34;&gt;doi:10.5281/zenodo.5949377&lt;/a&gt;. \&lt;/p&gt;
+&lt;p&gt;Jiang, J., Bock, Y., and Klein, E. (2021). Data for &amp;ldquo;Coevolving early afterslip and aftershock signatures of a San Andreas fault rupture&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Science Advances&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.4278477&#34;&gt;doi:10.5281/zenodo.4278477&lt;/a&gt;. \&lt;/p&gt;
+&lt;p&gt;Jiang, J., and Lohman, R. (2020). Data for &amp;ldquo;Coherence-guided InSAR deformation analysis in the presence of ongoing land surface change in the Imperial Valley, California&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Remote Sensing of Environment&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.3911193&#34;&gt;doi:10.5281/zenodo.3911193&lt;/a&gt;. \&lt;/p&gt;
+&lt;p&gt;Jiang, J. and Simons, M. (2016). Data and Models for “Probabilistic imaging of tsunamigenic seafloor deformation during the 2011 Tohoku-oki Earthquake” [Data set]. In &lt;!-- raw HTML omitted --&gt;J. Geophys. Res. Solid Earth&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6896262&#34;&gt;doi:10.5281/zenodo.6896262&lt;/a&gt;. \&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Career Page</title>
-      <link>https://jjle.github.io/teaching/career/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
+      <title>Courses</title>
+      <link>https://jjle.github.io/teaching/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 -0500</pubDate>
       
-      <guid>https://jjle.github.io/teaching/career/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;I started as an Assistant Professor of Geophysics in the &lt;a href=&#34;http://www.ou.edu/mcee/geosciences&#34; target=&#34;_blank&#34;&gt;School of Geosciences at the University of Oklahoma&lt;/a&gt; in Fall 2020. &lt;strong&gt;I am open to recruiting MS/PhD students and a postdoc to join the team. Please contact me for research opportunities if you are interested!&lt;/strong&gt;
-&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <guid>https://jjle.github.io/teaching/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Graduate / Upper Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5020 Computational Geophysics &amp;ndash; 3 credits (2021S, 2023S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Fundamental concepts of numerical modeling in solid Earth geophysics, including the mathematical formulation of finite difference (FDM) and finite element (FEM) methods and their applications in a range of geophysical problems such as the heat and fluid flow, deformation, and wave propagation. Students learn MATLAB/Python programming for these methods and review topics on computational methods in seismology, geomechanics, and geodynamics.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5970 Remote Sensing &amp;amp; Space Geodesy &amp;ndash; 3 credits (2021F, 2023F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+This course introduces fundamentals of remote sensing and geodetic techniques, including optical, radar, GNSS, InSAR, and related observations from current and upcoming satellite missions. Through case studies, the course covers basic geospatial analysis and parameter estimation approaches to characterize the properties and processes of land surface changes, geohazards, and resource exploration.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY4553 Introduction to Seismology &amp;ndash; 3 credits (2022S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+This course presents an overview of seismology to introduce students to the fundamentals of seismic wave, quantitative data analyses, and the utilization of seismic wave for the study of earthquakes and the Earth&amp;rsquo;s interior structure. Students will gain hand-on experiences with real data analysis.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5413 Global Geophysics &amp;ndash; 3 credits (2022F, 2023F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Introduces students to geophysical methods, the structure and physical properties of earth&amp;rsquo;s interior, active processes on earth, and the use of geophysical methods to study structure and processes.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY3440 Mentored Research Experience &amp;ndash; 1&amp;ndash;3 credits (2021S, 2022Su)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+For the inquisitive student to apply the scholarly processes of the discipline to a research or creative project under the mentorship of a faculty member.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY6970 Machine Learning in Geosciences Seminar &amp;ndash; 1 credit (2021F; Co-Instructor)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+To introduce Geoscience students to the basic methods of machine learning in a seminar setting, with discussion and brainstorming of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5970 Geophysical Journal Seminar &amp;ndash; 1 credit (2022S, 2022F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Review and discuss recent literature in the broad areas of solid Earth and exploration geophysics \&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Lower Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GEOL1114 Physical Geology for Scientists and Engineers &amp;ndash; 3 credits (2020F, 2022S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Plate tectonics, the makeup of continents and mountain building. Heat flow, magnetism, gravity, rock deformation, earthquakes and the earth&amp;rsquo;s interior. Surface processes including weathering, erosion, transport and deposition. Landforms, rivers, groundwater, glaciers, ocean processes, and volcanoes. Minerals and rocks. Application of geology to land-use, groundwater, mineral and fossil fuel exploration. Laboratory included.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY3013 – Data Analysis in Geoscience &amp;ndash; 3 credits (2023S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+This course introduces theories and techniques in quantitative data analysis, including data visualization, probability theory, linear models, periodicity detection, filtering, correlation, interpolation, approximations, and hypothesis testing. These concepts and methods are applied to several datasets in the study of the atmosphere, streams, groundwater, seafloor, earthquakes, etc. Examples are demonstrated in MATLAB programming environment.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY2013 Frontiers of Geophysics &amp;ndash; 1 credit (2023S; Co-Instructor)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+Introduction to the basic theories, methods, and modern applications of geophysics. This sampler course will address topics such as, but not limited to: Electrical resistivity imaging, seismology, deep earth geophysics, remote sensing, reflection seismology, computational geophysics, and machine learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Grad Page</title>
-      <link>https://jjle.github.io/opportunities/grad/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/opportunities/grad/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Grad Page</title>
-      <link>https://jjle.github.io/teaching/grad/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/teaching/grad/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mentoring Philosophy</title>
-      <link>https://jjle.github.io/opportunities/mentor/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/opportunities/mentor/</guid>
-      <description>
-
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;
-&lt;span style=&#34;color:black&#34;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:brown&#34;&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FF0018&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFA52C&#34;&gt;&lt;strong&gt;t&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFFF41&#34;&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#008018&#34;&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#0000F9&#34;&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#86007D&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFC0CB&#34;&gt;&lt;strong&gt;G&lt;/strong&gt;&lt;/span&gt;
-&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mentoring Philosophy</title>
-      <link>https://jjle.github.io/teaching/mentor/</link>
-      <pubDate>Sat, 13 Nov 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://jjle.github.io/teaching/mentor/</guid>
-      <description>
-
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;
-&lt;span style=&#34;color:black&#34;&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:brown&#34;&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FF0018&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFA52C&#34;&gt;&lt;strong&gt;t&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFFF41&#34;&gt;&lt;strong&gt;o&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#008018&#34;&gt;&lt;strong&gt;r&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#0000F9&#34;&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#86007D&#34;&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#FFC0CB&#34;&gt;&lt;strong&gt;G&lt;/strong&gt;&lt;/span&gt;
-&lt;/font&gt;&lt;/p&gt;
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Coevolving Early Afterslip and Aftershock Signatures of a San Andreas Fault Rupture</title>
-      <link>https://jjle.github.io/publication/jiang-2021/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/jiang-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coherence-Guided InSAR Deformation Analysis in the Presence of Ongoing Land Surface Changes in the Imperial Valley, California</title>
-      <link>https://jjle.github.io/publication/jiang-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/jiang-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>
-      <link>https://jjle.github.io/publication/erickson-2020/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jjle.github.io/publication/erickson-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
-      <link>https://jjle.github.io/project/deformation/</link>
+      <title>Projects</title>
+      <link>https://jjle.github.io/project/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
-      <guid>https://jjle.github.io/project/deformation/</guid>
-      <description>&lt;p&gt;We study surface changes, ground deformation, and seismicity in various settings. We primarily use remote-sensing techniques, e.g., multi-temporal Interferometric Synthetic Aperture Radar (InSAR) and GPS, and other auxiliary datasets to characterize robust ground deformation history in regions under the influences of tectonics (e.g., fault-zone deformation), surficial processes (e.g., soil moisture), and/or anthropogenic activities (e.g., agriculture and energy production).&lt;/p&gt;
-
-&lt;p&gt;Our focus is on the connections between surface observations and subsurface processes, including the existence or absence of seismicity. The overarching goal is to improve our understanding of earthquake triggering and the state and heterogeneity of stress in the shallow crust. Our research areas include Central and Southern California, Oklahoma, and Southern Kansas.&lt;/p&gt;
-</description>
+      <guid>https://jjle.github.io/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fault Zone Mechanics and Earthquake Physics</title>
-      <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
+      <title>Posts</title>
+      <link>https://jjle.github.io/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jjle.github.io/project/earthquake/</guid>
-      <description>&lt;p&gt;My interests under this broad topic include dynamic earthquake ruptures, interactions between seismic and aseismic processes, observations from geodesy, seismology, and geology, laboratory-based constitutive laws.&lt;/p&gt;
-</description>
+      <guid>https://jjle.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backup-materials</title>
+      <link>https://jjle.github.io/backup-material/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/backup-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>https://jjle.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://jjle.github.io/slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjle.github.io/slides/</guid>
+      <description></description>
     </item>
     
   </channel>
