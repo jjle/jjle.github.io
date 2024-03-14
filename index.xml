@@ -18,32 +18,79 @@
     </item>
     
     <item>
+      <title>Courses</title>
+      <link>https://jjle.github.io/teaching/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/teaching/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Graduate / Upper Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5020 Computational Geophysics &amp;ndash; 3 credits (2021S, 2023S)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Fundamental concepts of numerical modeling in solid Earth geophysics, including the mathematical formulation of finite difference (FDM) and finite element (FEM) methods and their applications in a range of geophysical problems such as the heat and fluid flow, deformation, and wave propagation. Students learn MATLAB/Python programming for these methods and review topics on computational methods in seismology, geomechanics, and geodynamics.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5970 Remote Sensing &amp;amp; Space Geodesy &amp;ndash; 3 credits (2021F, 2023F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+This course introduces fundamentals of remote sensing and geodetic techniques, including optical, radar, GNSS, InSAR, and related observations from current and upcoming satellite missions. Through case studies, the course covers basic geospatial analysis and parameter estimation approaches to characterize the properties and processes of land surface changes, geohazards, and resource exploration.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY4553 Introduction to Seismology &amp;ndash; 3 credits (2022S)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+This course presents an overview of seismology to introduce students to the fundamentals of seismic wave, quantitative data analyses, and the utilization of seismic wave for the study of earthquakes and the Earth&amp;rsquo;s interior structure. Students will gain hand-on experiences with real data analysis.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5413 Global Geophysics &amp;ndash; 3 credits (2022F, 2023F, 2024F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Introduces students to geophysical methods, the structure and physical properties of earth&amp;rsquo;s interior, active processes on earth, and the use of geophysical methods to study structure and processes.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY3440 Mentored Research Experience &amp;ndash; 1&amp;ndash;3 credits (2021S, 2022Su)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+For the inquisitive student to apply the scholarly processes of the discipline to a research or creative project under the mentorship of a faculty member.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY6970 Machine Learning in Geosciences Seminar &amp;ndash; 1 credit (2021F; Co-Instructor)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+To introduce Geoscience students to the basic methods of machine learning in a seminar setting, with discussion and brainstorming of ideas.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5970 Geophysical Journal Seminar &amp;ndash; 1 credit (2022S, 2022F, 2023F, 2024F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Review and discuss recent literature in the broad areas of solid Earth and exploration geophysics&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Lower Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GEOL1114 Physical Geology for Scientists and Engineers &amp;ndash; 3 credits (2020F, 2022S, 2024F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Plate tectonics, the makeup of continents and mountain building. Heat flow, magnetism, gravity, rock deformation, earthquakes and the earth&amp;rsquo;s interior. Surface processes including weathering, erosion, transport and deposition. Landforms, rivers, groundwater, glaciers, ocean processes, and volcanoes. Minerals and rocks. Application of geology to land-use, groundwater, mineral and fossil fuel exploration. Laboratory included.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY3013 – Data Analysis in Geoscience &amp;ndash; 3 credits (2023S)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+This course introduces theories and techniques in quantitative data analysis, including data visualization, probability theory, linear models, periodicity detection, filtering, correlation, interpolation, approximations, and hypothesis testing. These concepts and methods are applied to several datasets in the study of the atmosphere, streams, groundwater, seafloor, earthquakes, etc. Examples are demonstrated in MATLAB programming environment.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY2013 Frontiers of Geophysics &amp;ndash; 1 credit (2023S; Co-Instructor)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+Introduction to the basic theories, methods, and modern applications of geophysics. This sampler course will address topics such as, but not limited to: Electrical resistivity imaging, seismology, deep earth geophysics, remote sensing, reflection seismology, computational geophysics, and machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://jjle.github.io/data/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://jjle.github.io/data/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Data Repositories for Recent Publications&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Jiang, J., Erickson, B. et al. (2021). Simulation Data for &amp;ldquo;Community-Driven Code Comparisons for Three-Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip (SEAS)&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Journal of Geophysical Research&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6299674&#34;&gt;doi:10.5281/zenodo.6299674&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Materna, K., Barbour, A., Jiang, J., and Eneva (2022), Geodetic displacement data near North Brawley Geothermal Field, 2009-2019. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5949377&#34;&gt;doi:10.5281/zenodo.5949377&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jiang, J., Bock, Y., and Klein, E. (2021). Data for &amp;ldquo;Coevolving early afterslip and aftershock signatures of a San Andreas fault rupture&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Science Advances&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.4278477&#34;&gt;doi:10.5281/zenodo.4278477&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jiang, J., and Lohman, R. (2020). Data for &amp;ldquo;Coherence-guided InSAR deformation analysis in the presence of ongoing land surface change in the Imperial Valley, California&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Remote Sensing of Environment&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.3911193&#34;&gt;doi:10.5281/zenodo.3911193&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Jiang, J. and Simons, M. (2016). Data and Models for “Probabilistic imaging of tsunamigenic seafloor deformation during the 2011 Tohoku-oki Earthquake” [Data set]. In &lt;!-- raw HTML omitted --&gt;J. Geophys. Res. Solid Earth&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6896262&#34;&gt;doi:10.5281/zenodo.6896262&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Professional Service</title>
       <link>https://jjle.github.io/service/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/service/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;University of Oklahoma&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;2022&amp;ndash;         Faculty Liaison, &lt;a href=&#34;https://www.agu.org/bridge-program&#34;&gt;American Geophysical Union (AGU) Bridge Program&lt;/a&gt;&lt;br&gt;
 2021&amp;ndash;         Member, &lt;a href=&#34;https://www.ou.edu/mcee/about/diversity&#34;&gt;MCEE Diversity, Equity, and Inclusion (DEI) Council&lt;/a&gt;&lt;br&gt;
-2021&amp;ndash;         Member, &lt;a href=&#34;https://www.ou.edu/disc&#34;&gt;OU Data Institute for Societal Challenges (DISC)&lt;/a&gt; \&lt;/p&gt;
-&lt;p&gt;2023&amp;ndash;         Member, Energy Transition Geophysics Search Committee&lt;br&gt;
-2021&amp;ndash;         Member, Honors &amp;amp; Awards Committee&lt;br&gt;
+2021&amp;ndash;         Member, &lt;a href=&#34;https://www.ou.edu/disc&#34;&gt;OU Data Institute for Societal Challenges (DISC)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2021&amp;ndash;         Member, Honors &amp;amp; Awards Committee&lt;br&gt;
 2020&amp;ndash;         Member, Computer Lab Committee&lt;br&gt;
 2020&amp;ndash;         Member, Graduate Admission &amp;amp; Affairs Committee&lt;br&gt;
+2023&amp;ndash;2024   Member, Energy Transition Geophysics Search Committee&lt;br&gt;
 2020&amp;ndash;2021   Member and DEI Advocate, Environmental Geophysics Search Committee&lt;br&gt;
-2020&amp;ndash;2021   Member, Petroleum Geosciences Vision Committee \&lt;/p&gt;
+2020&amp;ndash;2021   Member, Petroleum Geosciences Vision Committee&lt;/p&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Broader Communities&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;2023&amp;ndash;         Member, &lt;a href=&#34;https://www.sz4d.org/&#34;&gt;SZ4D&lt;/a&gt; &lt;a href=&#34;https://www.sz4d.org/mcs&#34;&gt;Modeling Collaboratory for Subduction (MCS) Integrative Group&lt;/a&gt;&lt;br&gt;
 2017&amp;ndash;2023   Co-Leader (w/ &lt;a href=&#34;https://ix.cs.uoregon.edu/~bae/&#34;&gt;B. Erickson&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://vlambert.github.io/&#34;&gt;V. Lambert&lt;/a&gt;), &lt;a href=&#34;https://strike.scec.org/cvws/seas/index.html&#34;&gt;Community Code Verification SEAS Group&lt;/a&gt;&lt;br&gt;
 2022&amp;ndash;2023   Faculty Mentor, &lt;a href=&#34;https://www.aapigeosci.org/&#34;&gt;Asian Americans &amp;amp; Pacific Islanders in Geosciences (AAPIiG)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2022&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://www.scec.org/&#34;&gt;Southern California Earthquake Center (SCEC)&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;2022&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://www.scec.org/&#34;&gt;Statewide California Earthquake Center (SCEC)&lt;/a&gt;&lt;br&gt;
 2022&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://geodynamics.org/&#34;&gt;Computational Infrastructure for Geodynamics (CIG)&lt;/a&gt;&lt;br&gt;
 2021&amp;ndash;         Institutional Representative, &lt;a href=&#34;https://winsar.unavco.org/&#34;&gt;Western North America InSAR (WInSAR) Consortium&lt;/a&gt;&lt;br&gt;
-2022&amp;ndash;2023   Institutional Representative, &lt;a href=&#34;https://www.earthscope.org/&#34;&gt;EarthScope Consortium&lt;/a&gt; \&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**Reviewer for Proposals:**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-National Science Foundation (NSF), National Aeronautics and Space Administration (NASA), United States Geological Survey (USGS), American Chemical Society Petroleum Research Fund (ACS PRF), Dutch Research Council (NWO), German Research Foundation (DFG) \&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**Reviewer for Journals:**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
+2022&amp;ndash;2023   Institutional Representative, &lt;a href=&#34;https://www.earthscope.org/&#34;&gt;EarthScope Consortium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Reviewer for Proposals&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+National Science Foundation (NSF), National Aeronautics and Space Administration (NASA), United States Geological Survey (USGS), American Chemical Society Petroleum Research Fund (ACS PRF), Dutch Research Council (NWO), German Research Foundation (DFG)&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Reviewer for Journals&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Science, Science Advances, Geophysical Research Letters, Journal of Geophysical Research - Solid Earth, Geophysical Journal International, Earth and Planetary Science Letters, Scientific Reports, Bulletin of the Seismological Society of America, Seismological Research Letters, Earth Planets and Space, Earth and Space Science, Pure and Applied Geophysics, Tectonophysics, Remote Sensing, Geosciences, Energies, Sensors, Earthquake Science, etc.&lt;/p&gt;
 </description>
     </item>
@@ -51,7 +98,7 @@ Science, Science Advances, Geophysical Research Letters, Journal of Geophysical 
     <item>
       <title>Research Opportunities</title>
       <link>https://jjle.github.io/opportunities/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/opportunities/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;2024 Fall Admission&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
@@ -71,8 +118,8 @@ Science, Science Advances, Geophysical Research Letters, Journal of Geophysical 
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Undergraduate Students&lt;/strong&gt;:&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;_OU students_&lt;!-- raw HTML omitted --&gt;: I am always happy to discuss course(s) and potential research topics to explore.  \&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;_Other students_:&lt;!-- raw HTML omitted --&gt; We have hosted and look forward to virtual/on-site undergrad summer interns.&lt;/p&gt;
+&lt;em&gt;OU students&lt;/em&gt;: We are always happy to discuss courses and potential research topics.&lt;br&gt;
+&lt;em&gt;Non-OU students&lt;/em&gt;: We generally host virtual/on-site undergrad summer interns.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;MS Students&lt;/strong&gt;:
@@ -95,53 +142,6 @@ You should mention your research interests, desired knowledge and skillsets, and
       
       <guid>https://jjle.github.io/publication/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Datasets</title>
-      <link>https://jjle.github.io/data/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/data/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Data Repositories for Recent Publications&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;Jiang, J., Erickson, B. et al. (2021). Simulation Data for &amp;ldquo;Community-Driven Code Comparisons for Three-Dimensional Dynamic Modeling of Sequences of Earthquakes and Aseismic Slip (SEAS)&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Journal of Geophysical Research&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6299674&#34;&gt;doi:10.5281/zenodo.6299674&lt;/a&gt;. \&lt;/p&gt;
-&lt;p&gt;Materna, K., Barbour, A., Jiang, J., and Eneva (2022), Geodetic displacement data near North Brawley Geothermal Field, 2009-2019. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.5949377&#34;&gt;doi:10.5281/zenodo.5949377&lt;/a&gt;. \&lt;/p&gt;
-&lt;p&gt;Jiang, J., Bock, Y., and Klein, E. (2021). Data for &amp;ldquo;Coevolving early afterslip and aftershock signatures of a San Andreas fault rupture&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Science Advances&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.4278477&#34;&gt;doi:10.5281/zenodo.4278477&lt;/a&gt;. \&lt;/p&gt;
-&lt;p&gt;Jiang, J., and Lohman, R. (2020). Data for &amp;ldquo;Coherence-guided InSAR deformation analysis in the presence of ongoing land surface change in the Imperial Valley, California&amp;rdquo; [Data set]. In &lt;!-- raw HTML omitted --&gt;Remote Sensing of Environment&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.3911193&#34;&gt;doi:10.5281/zenodo.3911193&lt;/a&gt;. \&lt;/p&gt;
-&lt;p&gt;Jiang, J. and Simons, M. (2016). Data and Models for “Probabilistic imaging of tsunamigenic seafloor deformation during the 2011 Tohoku-oki Earthquake” [Data set]. In &lt;!-- raw HTML omitted --&gt;J. Geophys. Res. Solid Earth&lt;!-- raw HTML omitted --&gt;. Zenodo. &lt;a href=&#34;https://doi.org/10.5281/zenodo.6896262&#34;&gt;doi:10.5281/zenodo.6896262&lt;/a&gt;. \&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://jjle.github.io/teaching/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 -0500</pubDate>
-      
-      <guid>https://jjle.github.io/teaching/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Graduate / Upper Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5020 Computational Geophysics &amp;ndash; 3 credits (2021S, 2023S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-Fundamental concepts of numerical modeling in solid Earth geophysics, including the mathematical formulation of finite difference (FDM) and finite element (FEM) methods and their applications in a range of geophysical problems such as the heat and fluid flow, deformation, and wave propagation. Students learn MATLAB/Python programming for these methods and review topics on computational methods in seismology, geomechanics, and geodynamics.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5970 Remote Sensing &amp;amp; Space Geodesy &amp;ndash; 3 credits (2021F, 2023F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-This course introduces fundamentals of remote sensing and geodetic techniques, including optical, radar, GNSS, InSAR, and related observations from current and upcoming satellite missions. Through case studies, the course covers basic geospatial analysis and parameter estimation approaches to characterize the properties and processes of land surface changes, geohazards, and resource exploration.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY4553 Introduction to Seismology &amp;ndash; 3 credits (2022S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-This course presents an overview of seismology to introduce students to the fundamentals of seismic wave, quantitative data analyses, and the utilization of seismic wave for the study of earthquakes and the Earth&amp;rsquo;s interior structure. Students will gain hand-on experiences with real data analysis.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5413 Global Geophysics &amp;ndash; 3 credits (2022F, 2023F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-Introduces students to geophysical methods, the structure and physical properties of earth&amp;rsquo;s interior, active processes on earth, and the use of geophysical methods to study structure and processes.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY3440 Mentored Research Experience &amp;ndash; 1&amp;ndash;3 credits (2021S, 2022Su)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-For the inquisitive student to apply the scholarly processes of the discipline to a research or creative project under the mentorship of a faculty member.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY6970 Machine Learning in Geosciences Seminar &amp;ndash; 1 credit (2021F; Co-Instructor)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-To introduce Geoscience students to the basic methods of machine learning in a seminar setting, with discussion and brainstorming of ideas.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY5970 Geophysical Journal Seminar &amp;ndash; 1 credit (2022S, 2022F)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-Review and discuss recent literature in the broad areas of solid Earth and exploration geophysics \&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Lower Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GEOL1114 Physical Geology for Scientists and Engineers &amp;ndash; 3 credits (2020F, 2022S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-Plate tectonics, the makeup of continents and mountain building. Heat flow, magnetism, gravity, rock deformation, earthquakes and the earth&amp;rsquo;s interior. Surface processes including weathering, erosion, transport and deposition. Landforms, rivers, groundwater, glaciers, ocean processes, and volcanoes. Minerals and rocks. Application of geology to land-use, groundwater, mineral and fossil fuel exploration. Laboratory included.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY3013 – Data Analysis in Geoscience &amp;ndash; 3 credits (2023S)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-This course introduces theories and techniques in quantitative data analysis, including data visualization, probability theory, linear models, periodicity detection, filtering, correlation, interpolation, approximations, and hypothesis testing. These concepts and methods are applied to several datasets in the study of the atmosphere, streams, groundwater, seafloor, earthquakes, etc. Examples are demonstrated in MATLAB programming environment.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;**GPHY2013 Frontiers of Geophysics &amp;ndash; 1 credit (2023S; Co-Instructor)**&lt;!-- raw HTML omitted --&gt; \&lt;br&gt;
-Introduction to the basic theories, methods, and modern applications of geophysics. This sampler course will address topics such as, but not limited to: Electrical resistivity imaging, seismology, deep earth geophysics, remote sensing, reflection seismology, computational geophysics, and machine learning.&lt;/p&gt;
-</description>
     </item>
     
     <item>
