@@ -24,7 +24,7 @@
       
       <guid>https://jjle.github.io/teaching/</guid>
       <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Graduate / Upper Undergraduate Level Courses&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5020 Computational Geophysics &amp;ndash; 3 credits (2021S, 2023S)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5020 Computational Geophysics &amp;ndash; 3 credits (2021S, 2023S, 2025S)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Fundamental concepts of numerical modeling in solid Earth geophysics, including the mathematical formulation of finite difference (FDM) and finite element (FEM) methods and their applications in a range of geophysical problems such as the heat and fluid flow, deformation, and wave propagation. Students learn MATLAB/Python programming for these methods and review topics on computational methods in seismology, geomechanics, and geodynamics.&lt;/p&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5970 Remote Sensing &amp;amp; Space Geodesy &amp;ndash; 3 credits (2021F, 2023F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 This course introduces fundamentals of remote sensing and geodetic techniques, including optical, radar, GNSS, InSAR, and related observations from current and upcoming satellite missions. Through case studies, the course covers basic geospatial analysis and parameter estimation approaches to characterize the properties and processes of land surface changes, geohazards, and resource exploration.&lt;/p&gt;
@@ -32,7 +32,7 @@ This course introduces fundamentals of remote sensing and geodetic techniques, i
 This course presents an overview of seismology to introduce students to the fundamentals of seismic wave, quantitative data analyses, and the utilization of seismic wave for the study of earthquakes and the Earth&amp;rsquo;s interior structure. Students will gain hand-on experiences with real data analysis.&lt;/p&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY5413 Global Geophysics &amp;ndash; 3 credits (2022F, 2023F, 2024F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 Introduces students to geophysical methods, the structure and physical properties of earth&amp;rsquo;s interior, active processes on earth, and the use of geophysical methods to study structure and processes.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY3440 Mentored Research Experience &amp;ndash; 1&amp;ndash;3 credits (2021S, 2022Su)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY3440 Mentored Research Experience &amp;ndash; 1&amp;ndash;3 credits (2021S, 2022Su, 2023F, 2024Su, 2024F)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 For the inquisitive student to apply the scholarly processes of the discipline to a research or creative project under the mentorship of a faculty member.&lt;/p&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;GPHY6970 Machine Learning in Geosciences Seminar &amp;ndash; 1 credit (2021F; Co-Instructor)&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;br&gt;
 To introduce Geoscience students to the basic methods of machine learning in a seminar setting, with discussion and brainstorming of ideas.&lt;/p&gt;
