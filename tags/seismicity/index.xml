@@ -6,7 +6,7 @@
     <description>Recent content in seismicity on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 +0800</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/seismicity/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
       <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 +0800</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
       <description>Characterizing near-surface and subsurface processes in tectonic and industrial settings</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Fault Zone Mechanics and Earthquake Physics</title>
       <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 +0800</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
       <description>Deciphering interactions of transient and long-term processes and their physical mechanisms</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
