@@ -6,7 +6,7 @@
     <description>Recent content in geodesy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:03 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/geodesy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Land Surface Changes, Ground Deformation, and Seismicity</title>
       <link>https://jjle.github.io/project/deformation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:03 +0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:03 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/deformation/</guid>
       <description>Characterizing near-surface and subsurface processes in tectonic and industrial settings</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Fault Zone Mechanics and Earthquake Physics</title>
       <link>https://jjle.github.io/project/earthquake/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:02 +0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:02 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/earthquake/</guid>
       <description>Deciphering interactions of transient and long-term processes and their physical mechanisms</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Integration of Seismic-Geodetic Observations</title>
       <link>https://jjle.github.io/backup-material/data/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/backup-material/data/</guid>
       <description>Utilizing diverse datasets to probe multiscale dynamic processes</description>

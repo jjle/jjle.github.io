@@ -6,7 +6,7 @@
     <description>Recent content in seismology on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/seismology/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
@@ -32,7 +32,7 @@
     <item>
       <title>Integration of Seismic-Geodetic Observations</title>
       <link>https://jjle.github.io/backup-material/data/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0500</pubDate>
       
       <guid>https://jjle.github.io/backup-material/data/</guid>
       <description>Utilizing diverse datasets to probe multiscale dynamic processes</description>

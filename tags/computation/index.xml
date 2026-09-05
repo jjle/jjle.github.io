@@ -6,7 +6,7 @@
     <description>Recent content in computation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://jjle.github.io/tags/computation/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Computational Geophysics</title>
       <link>https://jjle.github.io/project/computation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>https://jjle.github.io/project/computation/</guid>
       <description>Developing novel quantitative methods for geophysical inference and predictive modeling</description>
